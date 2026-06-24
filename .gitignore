@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv/
+venv/
+
+# model binaries — store in DVC or similar, not git
+models/**/*.sav
+models/**/*.bin
+models/**/*.joblib
+
+# output data
+data/results.jsonl
+alerts/alerts.jsonl
+logs/ids.log
+
+# IDE
+.vscode/
+.idea/
