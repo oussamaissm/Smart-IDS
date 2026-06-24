@@ -1,1 +1,1 @@
-# Smart-IDS
+Smart IDS
