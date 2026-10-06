@@ -52,7 +52,6 @@ The project currently uses:
 |---|---|
 | Random Forest | RF |
 | Decision Tree | DT |
-| Logistic Regression | LR |
 | Naive Bayes | NB |
 
 Using several models makes it possible to compare their predictions on the same traffic windows.
