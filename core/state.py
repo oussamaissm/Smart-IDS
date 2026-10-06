@@ -1,8 +1,3 @@
-"""
-Mutable per-window state accumulated between Suricata 'stats' events.
-Keeping this in its own file prevents the log-reader from becoming a god-object.
-"""
-
 from dataclasses import dataclass, field
 
 
@@ -22,7 +17,6 @@ class FlowState:
     last_stats_timestamp: str = ""
 
     def record_flow(self, src_ip: str, host_ip: str, log: dict) -> None:
-        """Classify one flow event and accumulate counters."""
         flow = log.get("flow", {})
         bytes_in  = flow.get("bytes_toclient", 0)
         bytes_out = flow.get("bytes_toserver", 0)
@@ -41,7 +35,6 @@ class FlowState:
             self.timestamp_seen = True
 
     def reset(self) -> None:
-        """Clear all counters at the start of a new stats window."""
-        last_ts = self.last_stats_timestamp   # preserve across reset
-        self.__init__()                        # type: ignore[misc]
+        last_ts = self.last_stats_timestamp   
+        self.__init__()                       
         self.last_stats_timestamp = last_ts

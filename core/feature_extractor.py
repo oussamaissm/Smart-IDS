@@ -1,8 +1,3 @@
-"""
-Converts one Suricata 'stats' log entry + accumulated FlowState
-into a flat feature dict ready for model inference.
-"""
-
 import math
 import logging
 import statistics
@@ -15,16 +10,6 @@ log = logging.getLogger(__name__)
 
 
 def extract_features(stats_log: dict[str, Any], state: FlowState) -> dict[str, Any]:
-    """
-    Parameters
-    ----------
-    stats_log : the raw Suricata 'stats' JSON object
-    state     : accumulated counters for the current window
-
-    Returns
-    -------
-    A flat dict of feature_name → value, matching the training schema.
-    """
     stats       = stats_log.get("stats", {})
     decoder     = stats.get("decoder", {})
     flow        = stats.get("flow", {})
@@ -32,7 +17,7 @@ def extract_features(stats_log: dict[str, Any], state: FlowState) -> dict[str, A
     app_tx      = stats.get("app_layer", {}).get("tx",   {})
     tcp         = stats.get("tcp", {})
 
-    uptime      = stats.get("uptime", 1) or 1          # avoid /0
+    uptime      = stats.get("uptime", 1) or 1         
     total_flows = flow.get("total", 0)
 
     # ── Packet lengths ───────────────────────────────────────────────────────

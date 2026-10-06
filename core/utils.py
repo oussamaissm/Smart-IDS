@@ -1,7 +1,3 @@
-"""
-Shared helpers: logging setup, IP detection, timestamp arithmetic.
-"""
-
 import datetime
 import logging
 import subprocess
@@ -14,10 +10,6 @@ from config.settings import LOG_FORMAT, LOG_DATE_FORMAT, LOG_LEVEL
 # ── Logging ──────────────────────────────────────────────────────────────────
 
 def setup_logging() -> None:
-    """
-    Call once at process start.
-    Writes to both the console and logs/ids.log.
-    """
     APP_LOG.parent.mkdir(parents=True, exist_ok=True)
 
     logging.basicConfig(
@@ -39,7 +31,6 @@ def ensure_output_dirs() -> None:
 
 
 def append_jsonl(path: Path, data: str) -> None:
-    """Append one line to a .jsonl file."""
     with path.open("a", encoding="utf-8") as fh:
         fh.write(data + "\n")
 
@@ -47,10 +38,6 @@ def append_jsonl(path: Path, data: str) -> None:
 # ── Network ───────────────────────────────────────────────────────────────────
 
 def get_host_ip() -> str:
-    """
-    Return the default-route source IP of this machine.
-    Cached at import time — do NOT call inside a hot loop.
-    """
     try:
         result = subprocess.run(
             ["ip", "route"],
@@ -61,10 +48,8 @@ def get_host_ip() -> str:
         for line in result.stdout.splitlines():
             if "default via" in line:
                 parts = line.split()
-                # 'ip route' format: default via <gw> dev <iface> src <ip> …
                 if "src" in parts:
                     return parts[parts.index("src") + 1]
-                # Fallback: original heuristic
                 if len(parts) > 8:
                     return parts[8]
     except Exception:
@@ -78,7 +63,6 @@ _TS_FORMAT = "%Y-%m-%dT%H:%M:%S.%f%z"
 
 
 def timestamp_diff(ts1: str, ts2: str) -> float:
-    """Return ts1 - ts2 in seconds. Returns 0.0 on parse error."""
     try:
         dt1 = datetime.datetime.strptime(ts1, _TS_FORMAT)
         dt2 = datetime.datetime.strptime(ts2, _TS_FORMAT)

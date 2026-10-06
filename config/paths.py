@@ -1,8 +1,3 @@
-"""
-Centralized path configuration.
-Override any path via environment variables.
-"""
-
 import os
 from pathlib import Path
 

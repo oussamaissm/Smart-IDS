@@ -1,11 +1,3 @@
-"""
-Loads all five models exactly once at startup and exposes a single
-predict(df) → dict[str, str] interface.
-
-Adding a new model = add one entry to MODEL_PATHS in config/paths.py.
-No other file needs to change.
-"""
-
 import logging
 from dataclasses import dataclass
 from pathlib import Path
@@ -22,7 +14,6 @@ log = logging.getLogger(__name__)
 
 @dataclass
 class _Bundle:
-    """One model + its scaler + its label encoder."""
     name:          str
     model:         Any
     scaler:        Any
@@ -30,12 +21,7 @@ class _Bundle:
 
 
 class Predictor:
-    """
-    Usage
-    -----
-    predictor = Predictor()                 # loads all models once
-    results   = predictor.predict(df_row)   # fast from here on
-    """
+
 
     def __init__(self) -> None:
         self._bundles: list[_Bundle] = []
@@ -69,15 +55,6 @@ class Predictor:
     # ── Inference ─────────────────────────────────────────────────────────────
 
     def predict(self, df: pd.DataFrame) -> dict[str, str]:
-        """
-        Parameters
-        ----------
-        df : single-row DataFrame with extracted features
-
-        Returns
-        -------
-        {"RF": "Benign", "CNN": "DDoS", ...}
-        """
         results: dict[str, str] = {}
 
         for bundle in self._bundles:
@@ -93,8 +70,6 @@ class Predictor:
 
     @staticmethod
     def _predict_one(bundle: _Bundle, df: pd.DataFrame) -> str:
-    # Ensure features have exactly the same names and order
-        # used when the scaler was fitted.
         if hasattr(bundle.scaler, "feature_names_in_"):
             expected_features = list(bundle.scaler.feature_names_in_)
 
@@ -112,7 +87,6 @@ class Predictor:
         scaled = bundle.scaler.transform(df)
         raw = bundle.model.predict(scaled)
 
-        # CNN may return softmax probabilities (2-D array)
         if isinstance(raw, np.ndarray) and raw.ndim == 2 and raw.shape[1] > 1:
             raw = raw.argmax(axis=-1)
 

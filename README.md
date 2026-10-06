@@ -240,7 +240,6 @@ Timestamp
    |
    +-- Random Forest
    +-- Decision Tree
-   +-- Logistic Regression
    +-- Naive Bayes
 ```
 
@@ -255,18 +254,6 @@ Malicious detections can be written to an alerts file. The dashboard uses these 
 - Detected classes
 - Recent malicious windows
 - Model predictions
-
-## Model Evaluation
-
-Models can be evaluated using:
-
-- Accuracy
-- Precision
-- Recall
-- F1-score
-- Confusion matrix
-
-For intrusion detection, recall is especially important because missed attacks can be more problematic than false positives.
 
 ## Research Context
 
@@ -295,29 +282,3 @@ Real-Time Monitoring
 ```
 
 The system can serve as an experimental platform for comparing different machine-learning approaches to network intrusion detection.
-
-## Future Improvements
-
-Possible extensions include:
-
-- Kafka-based real-time event streaming
-- Improved feature extraction
-- Ensemble classification
-- Deep-learning models
-- Automated model retraining
-- Better false-positive handling
-- Additional datasets and attack classes
-- ONNX-based inference
-- Edge deployment on Raspberry Pi
-- Advanced alert correlation
-- More detailed real-time monitoring
-
-## Author
-
-**Oussama Ismaili**
-
-Smart IDS research and development project focused on machine-learning-based network intrusion detection.
-
-## License
-
-Add the appropriate license if the repository is intended for public distribution.

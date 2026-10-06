@@ -1,10 +1,3 @@
-"""
-Async log follower.
-
-Reads Suricata's eve.json line by line and, on every 'stats' event,
-hands the accumulated FlowState to the feature extractor and predictor.
-"""
-
 import asyncio
 import json
 import logging
@@ -23,17 +16,10 @@ log = logging.getLogger(__name__)
 
 
 class LogReader:
-    """
-    Parameters
-    ----------
-    log_file  : path to eve.json (or a local copy for testing)
-    predictor : a fully-loaded Predictor instance
-    """
-
     def __init__(self, log_file: Path, predictor: Predictor) -> None:
         self._log_file  = log_file
         self._predictor = predictor
-        self._host_ip   = get_host_ip()          # resolved once at startup
+        self._host_ip   = get_host_ip()           
         log.info("Host IP detected as '%s'", self._host_ip)
 
     # ── Public entry point ────────────────────────────────────────────────────
