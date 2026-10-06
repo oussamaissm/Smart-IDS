@@ -5,3 +5,5 @@ scikit-learn>=1.4
 # tensorflow or keras — uncomment if CNN model requires it
 # tensorflow>=2.15
 pytest>=8.0
+streamlit>=1.37
+altair

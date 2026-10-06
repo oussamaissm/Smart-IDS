@@ -15,31 +15,31 @@ SURICATA_LOG = Path(os.getenv("SURICATA_LOG", "/var/log/suricata/eve.json"))
 # ── Model base directory ─────────────────────────────────────────────────────
 MODEL_BASE = Path(os.getenv("IDS_MODEL_PATH", ROOT / "models"))
 
-MODEL_PATHS: dict[str, dict[str, Path]] = {
+MODEL_PATHS = {
     "RF": {
-        "model":         MODEL_BASE / "rff"  / "model_rf.sav",
-        "scaler":        MODEL_BASE / "rff"  / "scaler_rf.bin",
-        "label_encoder": MODEL_BASE / "rff"  / "label_encoder_rf.joblib",
+        "model": "models/rff/model_rf.sav",
+        "scaler": "models/rff/scaler_rf.bin",
+        "label_encoder": "models/rff/label_encoder_rf.joblib",
     },
     "CNN": {
-        "model":         MODEL_BASE / "CNN"  / "model_CNN.sav",
-        "scaler":        MODEL_BASE / "CNN"  / "scaler_CNN.bin",
-        "label_encoder": MODEL_BASE / "CNN"  / "label_encoder_CNN.joblib",
+        "model": "models/CNN/model_cnn.sav",
+        "scaler": "models/CNN/scaler_cnn.bin",
+        "label_encoder": "models/CNN/label_encoder_cnn.joblib",
     },
     "DT": {
-        "model":         MODEL_BASE / "DT"   / "model_dt.sav",
-        "scaler":        MODEL_BASE / "DT"   / "scaler_dt.bin",
-        "label_encoder": MODEL_BASE / "DT"   / "label_encoder_dt.joblib",
+        "model": "models/DT/model_dt.sav",
+        "scaler": "models/DT/scaler_dt.bin",
+        "label_encoder": "models/DT/label_encoder_dt.joblib",
     },
     "LR": {
-        "model":         MODEL_BASE / "LR"   / "model_lr.sav",
-        "scaler":        MODEL_BASE / "LR"   / "scaler_lr.bin",
-        "label_encoder": MODEL_BASE / "LR"   / "label_encoder_lr.joblib",
+        "model": "models/LR/model_lr.sav",
+        "scaler": "models/LR/scaler_lr.bin",
+        "label_encoder": "models/LR/label_encoder_lr.joblib",
     },
     "NB": {
-        "model":         MODEL_BASE / "NB"   / "model_nb.sav",
-        "scaler":        MODEL_BASE / "NB"   / "scaler_nb.bin",
-        "label_encoder": MODEL_BASE / "NB"   / "label_encoder_nb.joblib",
+        "model": "models/NB/model_nb.sav",
+        "scaler": "models/NB/scaler_nb.bin",
+        "label_encoder": "models/NB/label_encoder_nb.joblib",
     },
 }
 

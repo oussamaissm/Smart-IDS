@@ -1,0 +1,400 @@
+{"flow_count": 43, "inbound_count": 25, "outbound_count": 18, "avg_in_bytes": 933.8, "avg_out_bytes": 1365.8, "duration": 8.099}
+{"timestamp": "2026-10-06T12:35:50.851990+0000", "features": {"flow_count": 43, "inbound_count": 25, "outbound_count": 18, "avg_in_bytes": 933.8, "avg_out_bytes": 1365.8, "duration": 8.099}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 90, "inbound_count": 48, "outbound_count": 42, "avg_in_bytes": 870.0, "avg_out_bytes": 1509.5, "duration": 8.189}
+{"timestamp": "2026-10-06T12:35:58.851990+0000", "features": {"flow_count": 90, "inbound_count": 48, "outbound_count": 42, "avg_in_bytes": 870.0, "avg_out_bytes": 1509.5, "duration": 8.189}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 50, "inbound_count": 21, "outbound_count": 29, "avg_in_bytes": 857.0, "avg_out_bytes": 1379.7, "duration": 8.062}
+{"timestamp": "2026-10-06T12:36:06.851990+0000", "features": {"flow_count": 50, "inbound_count": 21, "outbound_count": 29, "avg_in_bytes": 857.0, "avg_out_bytes": 1379.7, "duration": 8.062}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 64, "inbound_count": 34, "outbound_count": 30, "avg_in_bytes": 812.7, "avg_out_bytes": 1540.6, "duration": 8.159}
+{"timestamp": "2026-10-06T12:36:14.851990+0000", "features": {"flow_count": 64, "inbound_count": 34, "outbound_count": 30, "avg_in_bytes": 812.7, "avg_out_bytes": 1540.6, "duration": 8.159}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 65, "inbound_count": 27, "outbound_count": 38, "avg_in_bytes": 892.1, "avg_out_bytes": 1658.1, "duration": 7.903}
+{"timestamp": "2026-10-06T12:36:22.851990+0000", "features": {"flow_count": 65, "inbound_count": 27, "outbound_count": 38, "avg_in_bytes": 892.1, "avg_out_bytes": 1658.1, "duration": 7.903}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 97, "inbound_count": 51, "outbound_count": 46, "avg_in_bytes": 841.8, "avg_out_bytes": 1509.2, "duration": 8.042}
+{"timestamp": "2026-10-06T12:36:30.851990+0000", "features": {"flow_count": 97, "inbound_count": 51, "outbound_count": 46, "avg_in_bytes": 841.8, "avg_out_bytes": 1509.2, "duration": 8.042}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "DDoS"}}
+{"flow_count": 109, "inbound_count": 50, "outbound_count": 59, "avg_in_bytes": 889.7, "avg_out_bytes": 1471.6, "duration": 7.803}
+{"timestamp": "2026-10-06T12:36:38.851990+0000", "features": {"flow_count": 109, "inbound_count": 50, "outbound_count": 59, "avg_in_bytes": 889.7, "avg_out_bytes": 1471.6, "duration": 7.803}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 105, "inbound_count": 60, "outbound_count": 45, "avg_in_bytes": 906.2, "avg_out_bytes": 1286.8, "duration": 7.889}
+{"timestamp": "2026-10-06T12:36:46.851990+0000", "features": {"flow_count": 105, "inbound_count": 60, "outbound_count": 45, "avg_in_bytes": 906.2, "avg_out_bytes": 1286.8, "duration": 7.889}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 41, "inbound_count": 24, "outbound_count": 17, "avg_in_bytes": 797.8, "avg_out_bytes": 1643.8, "duration": 8.029}
+{"timestamp": "2026-10-06T12:36:54.851990+0000", "features": {"flow_count": 41, "inbound_count": 24, "outbound_count": 17, "avg_in_bytes": 797.8, "avg_out_bytes": 1643.8, "duration": 8.029}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 47, "inbound_count": 19, "outbound_count": 28, "avg_in_bytes": 940.6, "avg_out_bytes": 1666.5, "duration": 7.912}
+{"timestamp": "2026-10-06T12:37:02.851990+0000", "features": {"flow_count": 47, "inbound_count": 19, "outbound_count": 28, "avg_in_bytes": 940.6, "avg_out_bytes": 1666.5, "duration": 7.912}, "predictions": {"RF": "Benign", "CNN": "DDoS", "LSTM": "Benign"}}
+{"flow_count": 94, "inbound_count": 55, "outbound_count": 39, "avg_in_bytes": 848.3, "avg_out_bytes": 1424.8, "duration": 8.079}
+{"timestamp": "2026-10-06T12:37:10.851990+0000", "features": {"flow_count": 94, "inbound_count": 55, "outbound_count": 39, "avg_in_bytes": 848.3, "avg_out_bytes": 1424.8, "duration": 8.079}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 87, "inbound_count": 39, "outbound_count": 48, "avg_in_bytes": 872.4, "avg_out_bytes": 1568.2, "duration": 7.87}
+{"timestamp": "2026-10-06T12:37:18.851990+0000", "features": {"flow_count": 87, "inbound_count": 39, "outbound_count": 48, "avg_in_bytes": 872.4, "avg_out_bytes": 1568.2, "duration": 7.87}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 58, "inbound_count": 28, "outbound_count": 30, "avg_in_bytes": 914.8, "avg_out_bytes": 1443.6, "duration": 7.971}
+{"timestamp": "2026-10-06T12:37:26.851990+0000", "features": {"flow_count": 58, "inbound_count": 28, "outbound_count": 30, "avg_in_bytes": 914.8, "avg_out_bytes": 1443.6, "duration": 7.971}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 120, "inbound_count": 61, "outbound_count": 59, "avg_in_bytes": 975.7, "avg_out_bytes": 1413.5, "duration": 7.991}
+{"timestamp": "2026-10-06T12:37:34.851990+0000", "features": {"flow_count": 120, "inbound_count": 61, "outbound_count": 59, "avg_in_bytes": 975.7, "avg_out_bytes": 1413.5, "duration": 7.991}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 108, "inbound_count": 57, "outbound_count": 51, "avg_in_bytes": 862.1, "avg_out_bytes": 1536.7, "duration": 8.18}
+{"timestamp": "2026-10-06T12:37:42.851990+0000", "features": {"flow_count": 108, "inbound_count": 57, "outbound_count": 51, "avg_in_bytes": 862.1, "avg_out_bytes": 1536.7, "duration": 8.18}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 41, "inbound_count": 23, "outbound_count": 18, "avg_in_bytes": 861.2, "avg_out_bytes": 1441.1, "duration": 7.958}
+{"timestamp": "2026-10-06T12:37:50.851990+0000", "features": {"flow_count": 41, "inbound_count": 23, "outbound_count": 18, "avg_in_bytes": 861.2, "avg_out_bytes": 1441.1, "duration": 7.958}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 106, "inbound_count": 54, "outbound_count": 52, "avg_in_bytes": 930.8, "avg_out_bytes": 1599.0, "duration": 8.15}
+{"timestamp": "2026-10-06T12:37:58.851990+0000", "features": {"flow_count": 106, "inbound_count": 54, "outbound_count": 52, "avg_in_bytes": 930.8, "avg_out_bytes": 1599.0, "duration": 8.15}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 109, "inbound_count": 49, "outbound_count": 60, "avg_in_bytes": 919.0, "avg_out_bytes": 1607.5, "duration": 7.86}
+{"timestamp": "2026-10-06T12:38:06.851990+0000", "features": {"flow_count": 109, "inbound_count": 49, "outbound_count": 60, "avg_in_bytes": 919.0, "avg_out_bytes": 1607.5, "duration": 7.86}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 102, "inbound_count": 54, "outbound_count": 48, "avg_in_bytes": 948.2, "avg_out_bytes": 1555.8, "duration": 7.835}
+{"timestamp": "2026-10-06T12:38:14.851990+0000", "features": {"flow_count": 102, "inbound_count": 54, "outbound_count": 48, "avg_in_bytes": 948.2, "avg_out_bytes": 1555.8, "duration": 7.835}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 64, "inbound_count": 33, "outbound_count": 31, "avg_in_bytes": 872.3, "avg_out_bytes": 1462.1, "duration": 8.016}
+{"timestamp": "2026-10-06T12:38:22.851990+0000", "features": {"flow_count": 64, "inbound_count": 33, "outbound_count": 31, "avg_in_bytes": 872.3, "avg_out_bytes": 1462.1, "duration": 8.016}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 55, "inbound_count": 26, "outbound_count": 29, "avg_in_bytes": 893.1, "avg_out_bytes": 1481.3, "duration": 7.953}
+{"timestamp": "2026-10-06T12:38:30.851990+0000", "features": {"flow_count": 55, "inbound_count": 26, "outbound_count": 29, "avg_in_bytes": 893.1, "avg_out_bytes": 1481.3, "duration": 7.953}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 111, "inbound_count": 49, "outbound_count": 62, "avg_in_bytes": 869.4, "avg_out_bytes": 1438.9, "duration": 7.88}
+{"timestamp": "2026-10-06T12:38:38.851990+0000", "features": {"flow_count": 111, "inbound_count": 49, "outbound_count": 62, "avg_in_bytes": 869.4, "avg_out_bytes": 1438.9, "duration": 7.88}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 87, "inbound_count": 45, "outbound_count": 42, "avg_in_bytes": 922.1, "avg_out_bytes": 1384.4, "duration": 8.111}
+{"timestamp": "2026-10-06T12:38:46.851990+0000", "features": {"flow_count": 87, "inbound_count": 45, "outbound_count": 42, "avg_in_bytes": 922.1, "avg_out_bytes": 1384.4, "duration": 8.111}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 70, "inbound_count": 28, "outbound_count": 42, "avg_in_bytes": 899.5, "avg_out_bytes": 1644.4, "duration": 7.953}
+{"timestamp": "2026-10-06T12:38:54.851990+0000", "features": {"flow_count": 70, "inbound_count": 28, "outbound_count": 42, "avg_in_bytes": 899.5, "avg_out_bytes": 1644.4, "duration": 7.953}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 84, "inbound_count": 39, "outbound_count": 45, "avg_in_bytes": 946.7, "avg_out_bytes": 1651.1, "duration": 8.05}
+{"timestamp": "2026-10-06T12:39:02.851990+0000", "features": {"flow_count": 84, "inbound_count": 39, "outbound_count": 45, "avg_in_bytes": 946.7, "avg_out_bytes": 1651.1, "duration": 8.05}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 111, "inbound_count": 58, "outbound_count": 53, "avg_in_bytes": 944.2, "avg_out_bytes": 1591.3, "duration": 8.062}
+{"timestamp": "2026-10-06T12:39:10.851990+0000", "features": {"flow_count": 111, "inbound_count": 58, "outbound_count": 53, "avg_in_bytes": 944.2, "avg_out_bytes": 1591.3, "duration": 8.062}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 50, "inbound_count": 25, "outbound_count": 25, "avg_in_bytes": 863.4, "avg_out_bytes": 1472.0, "duration": 8.16}
+{"timestamp": "2026-10-06T12:39:18.851990+0000", "features": {"flow_count": 50, "inbound_count": 25, "outbound_count": 25, "avg_in_bytes": 863.4, "avg_out_bytes": 1472.0, "duration": 8.16}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 47, "inbound_count": 24, "outbound_count": 23, "avg_in_bytes": 937.1, "avg_out_bytes": 1544.2, "duration": 7.919}
+{"timestamp": "2026-10-06T12:39:26.851990+0000", "features": {"flow_count": 47, "inbound_count": 24, "outbound_count": 23, "avg_in_bytes": 937.1, "avg_out_bytes": 1544.2, "duration": 7.919}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 45, "inbound_count": 25, "outbound_count": 20, "avg_in_bytes": 966.5, "avg_out_bytes": 1539.8, "duration": 7.938}
+{"timestamp": "2026-10-06T12:39:34.851990+0000", "features": {"flow_count": 45, "inbound_count": 25, "outbound_count": 20, "avg_in_bytes": 966.5, "avg_out_bytes": 1539.8, "duration": 7.938}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 64, "inbound_count": 25, "outbound_count": 39, "avg_in_bytes": 966.8, "avg_out_bytes": 1652.9, "duration": 7.888}
+{"timestamp": "2026-10-06T12:39:42.851990+0000", "features": {"flow_count": 64, "inbound_count": 25, "outbound_count": 39, "avg_in_bytes": 966.8, "avg_out_bytes": 1652.9, "duration": 7.888}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 48, "inbound_count": 21, "outbound_count": 27, "avg_in_bytes": 834.8, "avg_out_bytes": 1504.0, "duration": 7.83}
+{"timestamp": "2026-10-06T12:39:50.851990+0000", "features": {"flow_count": 48, "inbound_count": 21, "outbound_count": 27, "avg_in_bytes": 834.8, "avg_out_bytes": 1504.0, "duration": 7.83}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 57, "inbound_count": 26, "outbound_count": 31, "avg_in_bytes": 930.2, "avg_out_bytes": 1418.3, "duration": 8.198}
+{"timestamp": "2026-10-06T12:39:58.851990+0000", "features": {"flow_count": 57, "inbound_count": 26, "outbound_count": 31, "avg_in_bytes": 930.2, "avg_out_bytes": 1418.3, "duration": 8.198}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 118, "inbound_count": 56, "outbound_count": 62, "avg_in_bytes": 929.1, "avg_out_bytes": 1529.3, "duration": 8.124}
+{"timestamp": "2026-10-06T12:40:06.851990+0000", "features": {"flow_count": 118, "inbound_count": 56, "outbound_count": 62, "avg_in_bytes": 929.1, "avg_out_bytes": 1529.3, "duration": 8.124}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "PortScan"}}
+{"flow_count": 66, "inbound_count": 39, "outbound_count": 27, "avg_in_bytes": 854.5, "avg_out_bytes": 1464.2, "duration": 8.13}
+{"timestamp": "2026-10-06T12:40:14.851990+0000", "features": {"flow_count": 66, "inbound_count": 39, "outbound_count": 27, "avg_in_bytes": 854.5, "avg_out_bytes": 1464.2, "duration": 8.13}, "predictions": {"RF": "DDoS", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 58, "inbound_count": 30, "outbound_count": 28, "avg_in_bytes": 912.4, "avg_out_bytes": 1380.1, "duration": 8.069}
+{"timestamp": "2026-10-06T12:40:22.851990+0000", "features": {"flow_count": 58, "inbound_count": 30, "outbound_count": 28, "avg_in_bytes": 912.4, "avg_out_bytes": 1380.1, "duration": 8.069}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 120, "inbound_count": 64, "outbound_count": 56, "avg_in_bytes": 902.5, "avg_out_bytes": 1536.3, "duration": 7.804}
+{"timestamp": "2026-10-06T12:40:30.851990+0000", "features": {"flow_count": 120, "inbound_count": 64, "outbound_count": 56, "avg_in_bytes": 902.5, "avg_out_bytes": 1536.3, "duration": 7.804}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 72, "inbound_count": 35, "outbound_count": 37, "avg_in_bytes": 836.0, "avg_out_bytes": 1528.5, "duration": 7.82}
+{"timestamp": "2026-10-06T12:40:38.851990+0000", "features": {"flow_count": 72, "inbound_count": 35, "outbound_count": 37, "avg_in_bytes": 836.0, "avg_out_bytes": 1528.5, "duration": 7.82}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 75, "inbound_count": 41, "outbound_count": 34, "avg_in_bytes": 840.1, "avg_out_bytes": 1415.8, "duration": 8.054}
+{"timestamp": "2026-10-06T12:40:46.851990+0000", "features": {"flow_count": 75, "inbound_count": 41, "outbound_count": 34, "avg_in_bytes": 840.1, "avg_out_bytes": 1415.8, "duration": 8.054}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 94, "inbound_count": 37, "outbound_count": 57, "avg_in_bytes": 875.3, "avg_out_bytes": 1556.5, "duration": 8.048}
+{"timestamp": "2026-10-06T12:40:54.851990+0000", "features": {"flow_count": 94, "inbound_count": 37, "outbound_count": 57, "avg_in_bytes": 875.3, "avg_out_bytes": 1556.5, "duration": 8.048}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 69, "inbound_count": 29, "outbound_count": 40, "avg_in_bytes": 819.4, "avg_out_bytes": 1547.2, "duration": 8.055}
+{"timestamp": "2026-10-06T12:41:02.851990+0000", "features": {"flow_count": 69, "inbound_count": 29, "outbound_count": 40, "avg_in_bytes": 819.4, "avg_out_bytes": 1547.2, "duration": 8.055}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 86, "inbound_count": 39, "outbound_count": 47, "avg_in_bytes": 1006.9, "avg_out_bytes": 1537.2, "duration": 8.099}
+{"timestamp": "2026-10-06T12:41:10.851990+0000", "features": {"flow_count": 86, "inbound_count": 39, "outbound_count": 47, "avg_in_bytes": 1006.9, "avg_out_bytes": 1537.2, "duration": 8.099}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 101, "inbound_count": 49, "outbound_count": 52, "avg_in_bytes": 840.2, "avg_out_bytes": 1555.8, "duration": 8.096}
+{"timestamp": "2026-10-06T12:41:18.851990+0000", "features": {"flow_count": 101, "inbound_count": 49, "outbound_count": 52, "avg_in_bytes": 840.2, "avg_out_bytes": 1555.8, "duration": 8.096}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 118, "inbound_count": 48, "outbound_count": 70, "avg_in_bytes": 948.9, "avg_out_bytes": 1596.1, "duration": 8.04}
+{"timestamp": "2026-10-06T12:41:26.851990+0000", "features": {"flow_count": 118, "inbound_count": 48, "outbound_count": 70, "avg_in_bytes": 948.9, "avg_out_bytes": 1596.1, "duration": 8.04}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 103, "inbound_count": 53, "outbound_count": 50, "avg_in_bytes": 861.6, "avg_out_bytes": 1364.4, "duration": 8.117}
+{"timestamp": "2026-10-06T12:41:34.851990+0000", "features": {"flow_count": 103, "inbound_count": 53, "outbound_count": 50, "avg_in_bytes": 861.6, "avg_out_bytes": 1364.4, "duration": 8.117}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 66, "inbound_count": 39, "outbound_count": 27, "avg_in_bytes": 867.9, "avg_out_bytes": 1534.3, "duration": 8.002}
+{"timestamp": "2026-10-06T12:41:42.851990+0000", "features": {"flow_count": 66, "inbound_count": 39, "outbound_count": 27, "avg_in_bytes": 867.9, "avg_out_bytes": 1534.3, "duration": 8.002}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 112, "inbound_count": 51, "outbound_count": 61, "avg_in_bytes": 952.8, "avg_out_bytes": 1524.0, "duration": 7.999}
+{"timestamp": "2026-10-06T12:41:50.851990+0000", "features": {"flow_count": 112, "inbound_count": 51, "outbound_count": 61, "avg_in_bytes": 952.8, "avg_out_bytes": 1524.0, "duration": 7.999}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 51, "inbound_count": 30, "outbound_count": 21, "avg_in_bytes": 894.9, "avg_out_bytes": 1576.1, "duration": 7.863}
+{"timestamp": "2026-10-06T12:41:58.851990+0000", "features": {"flow_count": 51, "inbound_count": 30, "outbound_count": 21, "avg_in_bytes": 894.9, "avg_out_bytes": 1576.1, "duration": 7.863}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 90, "inbound_count": 43, "outbound_count": 47, "avg_in_bytes": 916.0, "avg_out_bytes": 1461.3, "duration": 7.875}
+{"timestamp": "2026-10-06T12:42:06.851990+0000", "features": {"flow_count": 90, "inbound_count": 43, "outbound_count": 47, "avg_in_bytes": 916.0, "avg_out_bytes": 1461.3, "duration": 7.875}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 111, "inbound_count": 63, "outbound_count": 48, "avg_in_bytes": 894.0, "avg_out_bytes": 1510.2, "duration": 7.925}
+{"timestamp": "2026-10-06T12:42:14.851990+0000", "features": {"flow_count": 111, "inbound_count": 63, "outbound_count": 48, "avg_in_bytes": 894.0, "avg_out_bytes": 1510.2, "duration": 7.925}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 87, "inbound_count": 41, "outbound_count": 46, "avg_in_bytes": 933.2, "avg_out_bytes": 1475.0, "duration": 7.974}
+{"timestamp": "2026-10-06T12:42:22.851990+0000", "features": {"flow_count": 87, "inbound_count": 41, "outbound_count": 46, "avg_in_bytes": 933.2, "avg_out_bytes": 1475.0, "duration": 7.974}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 93, "inbound_count": 40, "outbound_count": 53, "avg_in_bytes": 801.2, "avg_out_bytes": 1606.3, "duration": 7.808}
+{"timestamp": "2026-10-06T12:42:30.851990+0000", "features": {"flow_count": 93, "inbound_count": 40, "outbound_count": 53, "avg_in_bytes": 801.2, "avg_out_bytes": 1606.3, "duration": 7.808}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 72, "inbound_count": 42, "outbound_count": 30, "avg_in_bytes": 866.3, "avg_out_bytes": 1501.1, "duration": 8.006}
+{"timestamp": "2026-10-06T12:42:38.851990+0000", "features": {"flow_count": 72, "inbound_count": 42, "outbound_count": 30, "avg_in_bytes": 866.3, "avg_out_bytes": 1501.1, "duration": 8.006}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 71, "inbound_count": 35, "outbound_count": 36, "avg_in_bytes": 926.7, "avg_out_bytes": 1531.1, "duration": 8.028}
+{"timestamp": "2026-10-06T12:42:46.851990+0000", "features": {"flow_count": 71, "inbound_count": 35, "outbound_count": 36, "avg_in_bytes": 926.7, "avg_out_bytes": 1531.1, "duration": 8.028}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 114, "inbound_count": 50, "outbound_count": 64, "avg_in_bytes": 761.6, "avg_out_bytes": 1598.1, "duration": 7.842}
+{"timestamp": "2026-10-06T12:42:54.851990+0000", "features": {"flow_count": 114, "inbound_count": 50, "outbound_count": 64, "avg_in_bytes": 761.6, "avg_out_bytes": 1598.1, "duration": 7.842}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 72, "inbound_count": 38, "outbound_count": 34, "avg_in_bytes": 889.3, "avg_out_bytes": 1524.9, "duration": 8.037}
+{"timestamp": "2026-10-06T12:43:02.851990+0000", "features": {"flow_count": 72, "inbound_count": 38, "outbound_count": 34, "avg_in_bytes": 889.3, "avg_out_bytes": 1524.9, "duration": 8.037}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 65, "inbound_count": 27, "outbound_count": 38, "avg_in_bytes": 874.9, "avg_out_bytes": 1476.1, "duration": 7.95}
+{"timestamp": "2026-10-06T12:43:10.851990+0000", "features": {"flow_count": 65, "inbound_count": 27, "outbound_count": 38, "avg_in_bytes": 874.9, "avg_out_bytes": 1476.1, "duration": 7.95}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 45, "inbound_count": 22, "outbound_count": 23, "avg_in_bytes": 864.8, "avg_out_bytes": 1381.3, "duration": 7.963}
+{"timestamp": "2026-10-06T12:43:18.851990+0000", "features": {"flow_count": 45, "inbound_count": 22, "outbound_count": 23, "avg_in_bytes": 864.8, "avg_out_bytes": 1381.3, "duration": 7.963}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 92, "inbound_count": 47, "outbound_count": 45, "avg_in_bytes": 881.6, "avg_out_bytes": 1565.8, "duration": 8.186}
+{"timestamp": "2026-10-06T12:43:26.851990+0000", "features": {"flow_count": 92, "inbound_count": 47, "outbound_count": 45, "avg_in_bytes": 881.6, "avg_out_bytes": 1565.8, "duration": 8.186}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 91, "inbound_count": 41, "outbound_count": 50, "avg_in_bytes": 943.0, "avg_out_bytes": 1526.3, "duration": 8.052}
+{"timestamp": "2026-10-06T12:43:34.851990+0000", "features": {"flow_count": 91, "inbound_count": 41, "outbound_count": 50, "avg_in_bytes": 943.0, "avg_out_bytes": 1526.3, "duration": 8.052}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 71, "inbound_count": 36, "outbound_count": 35, "avg_in_bytes": 874.8, "avg_out_bytes": 1319.5, "duration": 7.931}
+{"timestamp": "2026-10-06T12:43:42.851990+0000", "features": {"flow_count": 71, "inbound_count": 36, "outbound_count": 35, "avg_in_bytes": 874.8, "avg_out_bytes": 1319.5, "duration": 7.931}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 52, "inbound_count": 22, "outbound_count": 30, "avg_in_bytes": 882.8, "avg_out_bytes": 1584.8, "duration": 8.167}
+{"timestamp": "2026-10-06T12:43:50.851990+0000", "features": {"flow_count": 52, "inbound_count": 22, "outbound_count": 30, "avg_in_bytes": 882.8, "avg_out_bytes": 1584.8, "duration": 8.167}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 105, "inbound_count": 50, "outbound_count": 55, "avg_in_bytes": 874.1, "avg_out_bytes": 1484.6, "duration": 8.15}
+{"timestamp": "2026-10-06T12:43:58.851990+0000", "features": {"flow_count": 105, "inbound_count": 50, "outbound_count": 55, "avg_in_bytes": 874.1, "avg_out_bytes": 1484.6, "duration": 8.15}, "predictions": {"RF": "Benign", "CNN": "DDoS", "LSTM": "Benign"}}
+{"flow_count": 57, "inbound_count": 28, "outbound_count": 29, "avg_in_bytes": 977.9, "avg_out_bytes": 1448.8, "duration": 7.857}
+{"timestamp": "2026-10-06T12:44:06.851990+0000", "features": {"flow_count": 57, "inbound_count": 28, "outbound_count": 29, "avg_in_bytes": 977.9, "avg_out_bytes": 1448.8, "duration": 7.857}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 103, "inbound_count": 44, "outbound_count": 59, "avg_in_bytes": 864.2, "avg_out_bytes": 1364.8, "duration": 7.94}
+{"timestamp": "2026-10-06T12:44:14.851990+0000", "features": {"flow_count": 103, "inbound_count": 44, "outbound_count": 59, "avg_in_bytes": 864.2, "avg_out_bytes": 1364.8, "duration": 7.94}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 83, "inbound_count": 41, "outbound_count": 42, "avg_in_bytes": 893.8, "avg_out_bytes": 1672.9, "duration": 8.147}
+{"timestamp": "2026-10-06T12:44:22.851990+0000", "features": {"flow_count": 83, "inbound_count": 41, "outbound_count": 42, "avg_in_bytes": 893.8, "avg_out_bytes": 1672.9, "duration": 8.147}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 116, "inbound_count": 58, "outbound_count": 58, "avg_in_bytes": 909.9, "avg_out_bytes": 1587.2, "duration": 8.197}
+{"timestamp": "2026-10-06T12:44:30.851990+0000", "features": {"flow_count": 116, "inbound_count": 58, "outbound_count": 58, "avg_in_bytes": 909.9, "avg_out_bytes": 1587.2, "duration": 8.197}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 72, "inbound_count": 31, "outbound_count": 41, "avg_in_bytes": 928.1, "avg_out_bytes": 1482.1, "duration": 8.156}
+{"timestamp": "2026-10-06T12:44:38.851990+0000", "features": {"flow_count": 72, "inbound_count": 31, "outbound_count": 41, "avg_in_bytes": 928.1, "avg_out_bytes": 1482.1, "duration": 8.156}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 79, "inbound_count": 32, "outbound_count": 47, "avg_in_bytes": 843.5, "avg_out_bytes": 1445.1, "duration": 8.07}
+{"timestamp": "2026-10-06T12:44:46.851990+0000", "features": {"flow_count": 79, "inbound_count": 32, "outbound_count": 47, "avg_in_bytes": 843.5, "avg_out_bytes": 1445.1, "duration": 8.07}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 95, "inbound_count": 50, "outbound_count": 45, "avg_in_bytes": 921.2, "avg_out_bytes": 1547.3, "duration": 8.075}
+{"timestamp": "2026-10-06T12:44:54.851990+0000", "features": {"flow_count": 95, "inbound_count": 50, "outbound_count": 45, "avg_in_bytes": 921.2, "avg_out_bytes": 1547.3, "duration": 8.075}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 113, "inbound_count": 54, "outbound_count": 59, "avg_in_bytes": 888.9, "avg_out_bytes": 1501.4, "duration": 8.065}
+{"timestamp": "2026-10-06T12:45:02.851990+0000", "features": {"flow_count": 113, "inbound_count": 54, "outbound_count": 59, "avg_in_bytes": 888.9, "avg_out_bytes": 1501.4, "duration": 8.065}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 46, "inbound_count": 18, "outbound_count": 28, "avg_in_bytes": 954.2, "avg_out_bytes": 1455.8, "duration": 7.908}
+{"timestamp": "2026-10-06T12:45:10.851990+0000", "features": {"flow_count": 46, "inbound_count": 18, "outbound_count": 28, "avg_in_bytes": 954.2, "avg_out_bytes": 1455.8, "duration": 7.908}, "predictions": {"RF": "Benign", "CNN": "PortScan", "LSTM": "Benign"}}
+{"flow_count": 73, "inbound_count": 31, "outbound_count": 42, "avg_in_bytes": 890.4, "avg_out_bytes": 1408.6, "duration": 7.977}
+{"timestamp": "2026-10-06T12:45:18.851990+0000", "features": {"flow_count": 73, "inbound_count": 31, "outbound_count": 42, "avg_in_bytes": 890.4, "avg_out_bytes": 1408.6, "duration": 7.977}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 118, "inbound_count": 61, "outbound_count": 57, "avg_in_bytes": 900.1, "avg_out_bytes": 1500.8, "duration": 7.883}
+{"timestamp": "2026-10-06T12:45:26.851990+0000", "features": {"flow_count": 118, "inbound_count": 61, "outbound_count": 57, "avg_in_bytes": 900.1, "avg_out_bytes": 1500.8, "duration": 7.883}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 92, "inbound_count": 44, "outbound_count": 48, "avg_in_bytes": 845.9, "avg_out_bytes": 1514.7, "duration": 7.821}
+{"timestamp": "2026-10-06T12:45:34.851990+0000", "features": {"flow_count": 92, "inbound_count": 44, "outbound_count": 48, "avg_in_bytes": 845.9, "avg_out_bytes": 1514.7, "duration": 7.821}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 104, "inbound_count": 59, "outbound_count": 45, "avg_in_bytes": 824.9, "avg_out_bytes": 1543.8, "duration": 7.977}
+{"timestamp": "2026-10-06T12:45:42.851990+0000", "features": {"flow_count": 104, "inbound_count": 59, "outbound_count": 45, "avg_in_bytes": 824.9, "avg_out_bytes": 1543.8, "duration": 7.977}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 120, "inbound_count": 69, "outbound_count": 51, "avg_in_bytes": 804.2, "avg_out_bytes": 1404.9, "duration": 8.139}
+{"timestamp": "2026-10-06T12:45:50.851990+0000", "features": {"flow_count": 120, "inbound_count": 69, "outbound_count": 51, "avg_in_bytes": 804.2, "avg_out_bytes": 1404.9, "duration": 8.139}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 103, "inbound_count": 43, "outbound_count": 60, "avg_in_bytes": 848.7, "avg_out_bytes": 1466.2, "duration": 8.027}
+{"timestamp": "2026-10-06T12:45:58.851990+0000", "features": {"flow_count": 103, "inbound_count": 43, "outbound_count": 60, "avg_in_bytes": 848.7, "avg_out_bytes": 1466.2, "duration": 8.027}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 91, "inbound_count": 36, "outbound_count": 55, "avg_in_bytes": 942.8, "avg_out_bytes": 1404.5, "duration": 8.108}
+{"timestamp": "2026-10-06T12:46:06.851990+0000", "features": {"flow_count": 91, "inbound_count": 36, "outbound_count": 55, "avg_in_bytes": 942.8, "avg_out_bytes": 1404.5, "duration": 8.108}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 81, "inbound_count": 46, "outbound_count": 35, "avg_in_bytes": 947.8, "avg_out_bytes": 1496.4, "duration": 8.024}
+{"timestamp": "2026-10-06T12:46:14.851990+0000", "features": {"flow_count": 81, "inbound_count": 46, "outbound_count": 35, "avg_in_bytes": 947.8, "avg_out_bytes": 1496.4, "duration": 8.024}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 108, "inbound_count": 46, "outbound_count": 62, "avg_in_bytes": 878.0, "avg_out_bytes": 1567.3, "duration": 7.886}
+{"timestamp": "2026-10-06T12:46:22.851990+0000", "features": {"flow_count": 108, "inbound_count": 46, "outbound_count": 62, "avg_in_bytes": 878.0, "avg_out_bytes": 1567.3, "duration": 7.886}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 96, "inbound_count": 47, "outbound_count": 49, "avg_in_bytes": 840.8, "avg_out_bytes": 1491.0, "duration": 7.814}
+{"timestamp": "2026-10-06T12:46:30.851990+0000", "features": {"flow_count": 96, "inbound_count": 47, "outbound_count": 49, "avg_in_bytes": 840.8, "avg_out_bytes": 1491.0, "duration": 7.814}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 55, "inbound_count": 29, "outbound_count": 26, "avg_in_bytes": 949.6, "avg_out_bytes": 1457.8, "duration": 8.011}
+{"timestamp": "2026-10-06T12:46:38.851990+0000", "features": {"flow_count": 55, "inbound_count": 29, "outbound_count": 26, "avg_in_bytes": 949.6, "avg_out_bytes": 1457.8, "duration": 8.011}, "predictions": {"RF": "DDoS", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 47, "inbound_count": 20, "outbound_count": 27, "avg_in_bytes": 918.4, "avg_out_bytes": 1471.3, "duration": 7.919}
+{"timestamp": "2026-10-06T12:46:46.851990+0000", "features": {"flow_count": 47, "inbound_count": 20, "outbound_count": 27, "avg_in_bytes": 918.4, "avg_out_bytes": 1471.3, "duration": 7.919}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 74, "inbound_count": 41, "outbound_count": 33, "avg_in_bytes": 959.0, "avg_out_bytes": 1402.7, "duration": 7.806}
+{"timestamp": "2026-10-06T12:46:54.851990+0000", "features": {"flow_count": 74, "inbound_count": 41, "outbound_count": 33, "avg_in_bytes": 959.0, "avg_out_bytes": 1402.7, "duration": 7.806}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 116, "inbound_count": 61, "outbound_count": 55, "avg_in_bytes": 885.6, "avg_out_bytes": 1624.3, "duration": 7.91}
+{"timestamp": "2026-10-06T12:47:02.851990+0000", "features": {"flow_count": 116, "inbound_count": 61, "outbound_count": 55, "avg_in_bytes": 885.6, "avg_out_bytes": 1624.3, "duration": 7.91}, "predictions": {"RF": "Benign", "CNN": "PortScan", "LSTM": "PortScan"}}
+{"flow_count": 97, "inbound_count": 39, "outbound_count": 58, "avg_in_bytes": 925.2, "avg_out_bytes": 1405.1, "duration": 8.056}
+{"timestamp": "2026-10-06T12:47:10.851990+0000", "features": {"flow_count": 97, "inbound_count": 39, "outbound_count": 58, "avg_in_bytes": 925.2, "avg_out_bytes": 1405.1, "duration": 8.056}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 89, "inbound_count": 51, "outbound_count": 38, "avg_in_bytes": 758.8, "avg_out_bytes": 1365.1, "duration": 7.904}
+{"timestamp": "2026-10-06T12:47:18.851990+0000", "features": {"flow_count": 89, "inbound_count": 51, "outbound_count": 38, "avg_in_bytes": 758.8, "avg_out_bytes": 1365.1, "duration": 7.904}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 50, "inbound_count": 23, "outbound_count": 27, "avg_in_bytes": 908.7, "avg_out_bytes": 1601.7, "duration": 7.812}
+{"timestamp": "2026-10-06T12:47:26.851990+0000", "features": {"flow_count": 50, "inbound_count": 23, "outbound_count": 27, "avg_in_bytes": 908.7, "avg_out_bytes": 1601.7, "duration": 7.812}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 108, "inbound_count": 60, "outbound_count": 48, "avg_in_bytes": 884.9, "avg_out_bytes": 1423.6, "duration": 8.131}
+{"timestamp": "2026-10-06T12:47:34.851990+0000", "features": {"flow_count": 108, "inbound_count": 60, "outbound_count": 48, "avg_in_bytes": 884.9, "avg_out_bytes": 1423.6, "duration": 8.131}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 52, "inbound_count": 31, "outbound_count": 21, "avg_in_bytes": 950.7, "avg_out_bytes": 1462.7, "duration": 7.817}
+{"timestamp": "2026-10-06T12:47:42.851990+0000", "features": {"flow_count": 52, "inbound_count": 31, "outbound_count": 21, "avg_in_bytes": 950.7, "avg_out_bytes": 1462.7, "duration": 7.817}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 108, "inbound_count": 53, "outbound_count": 55, "avg_in_bytes": 916.1, "avg_out_bytes": 1428.4, "duration": 8.19}
+{"timestamp": "2026-10-06T12:47:50.851990+0000", "features": {"flow_count": 108, "inbound_count": 53, "outbound_count": 55, "avg_in_bytes": 916.1, "avg_out_bytes": 1428.4, "duration": 8.19}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 63, "inbound_count": 32, "outbound_count": 31, "avg_in_bytes": 944.6, "avg_out_bytes": 1396.5, "duration": 7.863}
+{"timestamp": "2026-10-06T12:47:58.851990+0000", "features": {"flow_count": 63, "inbound_count": 32, "outbound_count": 31, "avg_in_bytes": 944.6, "avg_out_bytes": 1396.5, "duration": 7.863}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 41, "inbound_count": 21, "outbound_count": 20, "avg_in_bytes": 1001.7, "avg_out_bytes": 1406.6, "duration": 8.035}
+{"timestamp": "2026-10-06T12:48:06.851990+0000", "features": {"flow_count": 41, "inbound_count": 21, "outbound_count": 20, "avg_in_bytes": 1001.7, "avg_out_bytes": 1406.6, "duration": 8.035}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 44, "inbound_count": 20, "outbound_count": 24, "avg_in_bytes": 954.9, "avg_out_bytes": 1486.2, "duration": 7.984}
+{"timestamp": "2026-10-06T12:48:14.851990+0000", "features": {"flow_count": 44, "inbound_count": 20, "outbound_count": 24, "avg_in_bytes": 954.9, "avg_out_bytes": 1486.2, "duration": 7.984}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 47, "inbound_count": 19, "outbound_count": 28, "avg_in_bytes": 953.1, "avg_out_bytes": 1471.5, "duration": 7.915}
+{"timestamp": "2026-10-06T12:48:22.851990+0000", "features": {"flow_count": 47, "inbound_count": 19, "outbound_count": 28, "avg_in_bytes": 953.1, "avg_out_bytes": 1471.5, "duration": 7.915}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 118, "inbound_count": 54, "outbound_count": 64, "avg_in_bytes": 809.9, "avg_out_bytes": 1547.7, "duration": 8.003}
+{"timestamp": "2026-10-06T12:48:30.851990+0000", "features": {"flow_count": 118, "inbound_count": 54, "outbound_count": 64, "avg_in_bytes": 809.9, "avg_out_bytes": 1547.7, "duration": 8.003}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 111, "inbound_count": 52, "outbound_count": 59, "avg_in_bytes": 960.1, "avg_out_bytes": 1499.8, "duration": 7.807}
+{"timestamp": "2026-10-06T12:48:38.851990+0000", "features": {"flow_count": 111, "inbound_count": 52, "outbound_count": 59, "avg_in_bytes": 960.1, "avg_out_bytes": 1499.8, "duration": 7.807}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 63, "inbound_count": 27, "outbound_count": 36, "avg_in_bytes": 830.9, "avg_out_bytes": 1471.8, "duration": 7.962}
+{"timestamp": "2026-10-06T12:48:46.851990+0000", "features": {"flow_count": 63, "inbound_count": 27, "outbound_count": 36, "avg_in_bytes": 830.9, "avg_out_bytes": 1471.8, "duration": 7.962}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 77, "inbound_count": 40, "outbound_count": 37, "avg_in_bytes": 854.5, "avg_out_bytes": 1647.9, "duration": 8.083}
+{"timestamp": "2026-10-06T12:48:54.851990+0000", "features": {"flow_count": 77, "inbound_count": 40, "outbound_count": 37, "avg_in_bytes": 854.5, "avg_out_bytes": 1647.9, "duration": 8.083}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 73, "inbound_count": 30, "outbound_count": 43, "avg_in_bytes": 931.5, "avg_out_bytes": 1470.5, "duration": 8.025}
+{"timestamp": "2026-10-06T12:49:02.851990+0000", "features": {"flow_count": 73, "inbound_count": 30, "outbound_count": 43, "avg_in_bytes": 931.5, "avg_out_bytes": 1470.5, "duration": 8.025}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 42, "inbound_count": 17, "outbound_count": 25, "avg_in_bytes": 800.2, "avg_out_bytes": 1327.8, "duration": 7.856}
+{"timestamp": "2026-10-06T12:49:10.851990+0000", "features": {"flow_count": 42, "inbound_count": 17, "outbound_count": 25, "avg_in_bytes": 800.2, "avg_out_bytes": 1327.8, "duration": 7.856}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 87, "inbound_count": 45, "outbound_count": 42, "avg_in_bytes": 852.6, "avg_out_bytes": 1253.0, "duration": 8.114}
+{"timestamp": "2026-10-06T12:49:18.851990+0000", "features": {"flow_count": 87, "inbound_count": 45, "outbound_count": 42, "avg_in_bytes": 852.6, "avg_out_bytes": 1253.0, "duration": 8.114}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 76, "inbound_count": 44, "outbound_count": 32, "avg_in_bytes": 776.7, "avg_out_bytes": 1537.2, "duration": 8.024}
+{"timestamp": "2026-10-06T12:49:26.851990+0000", "features": {"flow_count": 76, "inbound_count": 44, "outbound_count": 32, "avg_in_bytes": 776.7, "avg_out_bytes": 1537.2, "duration": 8.024}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 57, "inbound_count": 32, "outbound_count": 25, "avg_in_bytes": 881.0, "avg_out_bytes": 1462.1, "duration": 8.193}
+{"timestamp": "2026-10-06T12:49:34.851990+0000", "features": {"flow_count": 57, "inbound_count": 32, "outbound_count": 25, "avg_in_bytes": 881.0, "avg_out_bytes": 1462.1, "duration": 8.193}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 104, "inbound_count": 54, "outbound_count": 50, "avg_in_bytes": 896.0, "avg_out_bytes": 1485.9, "duration": 7.872}
+{"timestamp": "2026-10-06T12:49:42.851990+0000", "features": {"flow_count": 104, "inbound_count": 54, "outbound_count": 50, "avg_in_bytes": 896.0, "avg_out_bytes": 1485.9, "duration": 7.872}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 48, "inbound_count": 27, "outbound_count": 21, "avg_in_bytes": 937.7, "avg_out_bytes": 1456.5, "duration": 7.924}
+{"timestamp": "2026-10-06T12:49:50.851990+0000", "features": {"flow_count": 48, "inbound_count": 27, "outbound_count": 21, "avg_in_bytes": 937.7, "avg_out_bytes": 1456.5, "duration": 7.924}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 108, "inbound_count": 64, "outbound_count": 44, "avg_in_bytes": 840.7, "avg_out_bytes": 1558.3, "duration": 8.107}
+{"timestamp": "2026-10-06T12:49:58.851990+0000", "features": {"flow_count": 108, "inbound_count": 64, "outbound_count": 44, "avg_in_bytes": 840.7, "avg_out_bytes": 1558.3, "duration": 8.107}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 87, "inbound_count": 37, "outbound_count": 50, "avg_in_bytes": 890.5, "avg_out_bytes": 1644.9, "duration": 7.939}
+{"timestamp": "2026-10-06T12:50:06.851990+0000", "features": {"flow_count": 87, "inbound_count": 37, "outbound_count": 50, "avg_in_bytes": 890.5, "avg_out_bytes": 1644.9, "duration": 7.939}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 69, "inbound_count": 36, "outbound_count": 33, "avg_in_bytes": 882.6, "avg_out_bytes": 1514.3, "duration": 7.96}
+{"timestamp": "2026-10-06T12:50:14.851990+0000", "features": {"flow_count": 69, "inbound_count": 36, "outbound_count": 33, "avg_in_bytes": 882.6, "avg_out_bytes": 1514.3, "duration": 7.96}, "predictions": {"RF": "Benign", "CNN": "PortScan", "LSTM": "Benign"}}
+{"flow_count": 61, "inbound_count": 27, "outbound_count": 34, "avg_in_bytes": 918.9, "avg_out_bytes": 1605.0, "duration": 8.175}
+{"timestamp": "2026-10-06T12:50:22.851990+0000", "features": {"flow_count": 61, "inbound_count": 27, "outbound_count": 34, "avg_in_bytes": 918.9, "avg_out_bytes": 1605.0, "duration": 8.175}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 109, "inbound_count": 45, "outbound_count": 64, "avg_in_bytes": 774.2, "avg_out_bytes": 1471.6, "duration": 8.15}
+{"timestamp": "2026-10-06T12:50:30.851990+0000", "features": {"flow_count": 109, "inbound_count": 45, "outbound_count": 64, "avg_in_bytes": 774.2, "avg_out_bytes": 1471.6, "duration": 8.15}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 86, "inbound_count": 47, "outbound_count": 39, "avg_in_bytes": 1072.3, "avg_out_bytes": 1421.6, "duration": 8.006}
+{"timestamp": "2026-10-06T12:50:38.851990+0000", "features": {"flow_count": 86, "inbound_count": 47, "outbound_count": 39, "avg_in_bytes": 1072.3, "avg_out_bytes": 1421.6, "duration": 8.006}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 56, "inbound_count": 24, "outbound_count": 32, "avg_in_bytes": 893.3, "avg_out_bytes": 1480.5, "duration": 7.841}
+{"timestamp": "2026-10-06T12:50:46.851990+0000", "features": {"flow_count": 56, "inbound_count": 24, "outbound_count": 32, "avg_in_bytes": 893.3, "avg_out_bytes": 1480.5, "duration": 7.841}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 46, "inbound_count": 21, "outbound_count": 25, "avg_in_bytes": 911.0, "avg_out_bytes": 1486.8, "duration": 8.199}
+{"timestamp": "2026-10-06T12:50:54.851990+0000", "features": {"flow_count": 46, "inbound_count": 21, "outbound_count": 25, "avg_in_bytes": 911.0, "avg_out_bytes": 1486.8, "duration": 8.199}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 76, "inbound_count": 45, "outbound_count": 31, "avg_in_bytes": 883.2, "avg_out_bytes": 1447.0, "duration": 8.079}
+{"timestamp": "2026-10-06T12:51:02.851990+0000", "features": {"flow_count": 76, "inbound_count": 45, "outbound_count": 31, "avg_in_bytes": 883.2, "avg_out_bytes": 1447.0, "duration": 8.079}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 119, "inbound_count": 61, "outbound_count": 58, "avg_in_bytes": 811.5, "avg_out_bytes": 1503.4, "duration": 8.125}
+{"timestamp": "2026-10-06T12:51:10.851990+0000", "features": {"flow_count": 119, "inbound_count": 61, "outbound_count": 58, "avg_in_bytes": 811.5, "avg_out_bytes": 1503.4, "duration": 8.125}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 49, "inbound_count": 24, "outbound_count": 25, "avg_in_bytes": 916.7, "avg_out_bytes": 1532.5, "duration": 8.022}
+{"timestamp": "2026-10-06T12:51:18.851990+0000", "features": {"flow_count": 49, "inbound_count": 24, "outbound_count": 25, "avg_in_bytes": 916.7, "avg_out_bytes": 1532.5, "duration": 8.022}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 98, "inbound_count": 46, "outbound_count": 52, "avg_in_bytes": 870.2, "avg_out_bytes": 1496.1, "duration": 7.816}
+{"timestamp": "2026-10-06T12:51:26.851990+0000", "features": {"flow_count": 98, "inbound_count": 46, "outbound_count": 52, "avg_in_bytes": 870.2, "avg_out_bytes": 1496.1, "duration": 7.816}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 86, "inbound_count": 42, "outbound_count": 44, "avg_in_bytes": 976.8, "avg_out_bytes": 1490.0, "duration": 8.074}
+{"timestamp": "2026-10-06T12:51:34.851990+0000", "features": {"flow_count": 86, "inbound_count": 42, "outbound_count": 44, "avg_in_bytes": 976.8, "avg_out_bytes": 1490.0, "duration": 8.074}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 51, "inbound_count": 29, "outbound_count": 22, "avg_in_bytes": 983.6, "avg_out_bytes": 1472.8, "duration": 8.084}
+{"timestamp": "2026-10-06T12:51:42.851990+0000", "features": {"flow_count": 51, "inbound_count": 29, "outbound_count": 22, "avg_in_bytes": 983.6, "avg_out_bytes": 1472.8, "duration": 8.084}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 109, "inbound_count": 52, "outbound_count": 57, "avg_in_bytes": 848.3, "avg_out_bytes": 1570.9, "duration": 7.959}
+{"timestamp": "2026-10-06T12:51:50.851990+0000", "features": {"flow_count": 109, "inbound_count": 52, "outbound_count": 57, "avg_in_bytes": 848.3, "avg_out_bytes": 1570.9, "duration": 7.959}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "DDoS"}}
+{"flow_count": 40, "inbound_count": 18, "outbound_count": 22, "avg_in_bytes": 953.0, "avg_out_bytes": 1281.5, "duration": 7.899}
+{"timestamp": "2026-10-06T12:51:58.851990+0000", "features": {"flow_count": 40, "inbound_count": 18, "outbound_count": 22, "avg_in_bytes": 953.0, "avg_out_bytes": 1281.5, "duration": 7.899}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 81, "inbound_count": 37, "outbound_count": 44, "avg_in_bytes": 912.9, "avg_out_bytes": 1537.4, "duration": 8.134}
+{"timestamp": "2026-10-06T12:52:06.851990+0000", "features": {"flow_count": 81, "inbound_count": 37, "outbound_count": 44, "avg_in_bytes": 912.9, "avg_out_bytes": 1537.4, "duration": 8.134}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 56, "inbound_count": 30, "outbound_count": 26, "avg_in_bytes": 904.0, "avg_out_bytes": 1450.0, "duration": 7.896}
+{"timestamp": "2026-10-06T12:52:14.851990+0000", "features": {"flow_count": 56, "inbound_count": 30, "outbound_count": 26, "avg_in_bytes": 904.0, "avg_out_bytes": 1450.0, "duration": 7.896}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 67, "inbound_count": 37, "outbound_count": 30, "avg_in_bytes": 900.1, "avg_out_bytes": 1665.3, "duration": 7.852}
+{"timestamp": "2026-10-06T12:52:22.851990+0000", "features": {"flow_count": 67, "inbound_count": 37, "outbound_count": 30, "avg_in_bytes": 900.1, "avg_out_bytes": 1665.3, "duration": 7.852}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 97, "inbound_count": 54, "outbound_count": 43, "avg_in_bytes": 981.4, "avg_out_bytes": 1548.7, "duration": 8.13}
+{"timestamp": "2026-10-06T12:52:30.851990+0000", "features": {"flow_count": 97, "inbound_count": 54, "outbound_count": 43, "avg_in_bytes": 981.4, "avg_out_bytes": 1548.7, "duration": 8.13}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 98, "inbound_count": 50, "outbound_count": 48, "avg_in_bytes": 817.8, "avg_out_bytes": 1542.9, "duration": 8.111}
+{"timestamp": "2026-10-06T12:52:38.851990+0000", "features": {"flow_count": 98, "inbound_count": 50, "outbound_count": 48, "avg_in_bytes": 817.8, "avg_out_bytes": 1542.9, "duration": 8.111}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 52, "inbound_count": 28, "outbound_count": 24, "avg_in_bytes": 864.3, "avg_out_bytes": 1544.6, "duration": 8.08}
+{"timestamp": "2026-10-06T12:52:46.851990+0000", "features": {"flow_count": 52, "inbound_count": 28, "outbound_count": 24, "avg_in_bytes": 864.3, "avg_out_bytes": 1544.6, "duration": 8.08}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 46, "inbound_count": 27, "outbound_count": 19, "avg_in_bytes": 907.4, "avg_out_bytes": 1434.3, "duration": 7.922}
+{"timestamp": "2026-10-06T12:52:54.851990+0000", "features": {"flow_count": 46, "inbound_count": 27, "outbound_count": 19, "avg_in_bytes": 907.4, "avg_out_bytes": 1434.3, "duration": 7.922}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 74, "inbound_count": 33, "outbound_count": 41, "avg_in_bytes": 885.6, "avg_out_bytes": 1541.1, "duration": 8.166}
+{"timestamp": "2026-10-06T12:53:02.851990+0000", "features": {"flow_count": 74, "inbound_count": 33, "outbound_count": 41, "avg_in_bytes": 885.6, "avg_out_bytes": 1541.1, "duration": 8.166}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 68, "inbound_count": 34, "outbound_count": 34, "avg_in_bytes": 871.0, "avg_out_bytes": 1552.8, "duration": 7.99}
+{"timestamp": "2026-10-06T12:53:10.851990+0000", "features": {"flow_count": 68, "inbound_count": 34, "outbound_count": 34, "avg_in_bytes": 871.0, "avg_out_bytes": 1552.8, "duration": 7.99}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 73, "inbound_count": 40, "outbound_count": 33, "avg_in_bytes": 898.0, "avg_out_bytes": 1469.5, "duration": 7.869}
+{"timestamp": "2026-10-06T12:53:18.851990+0000", "features": {"flow_count": 73, "inbound_count": 40, "outbound_count": 33, "avg_in_bytes": 898.0, "avg_out_bytes": 1469.5, "duration": 7.869}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 95, "inbound_count": 52, "outbound_count": 43, "avg_in_bytes": 922.8, "avg_out_bytes": 1387.7, "duration": 7.994}
+{"timestamp": "2026-10-06T12:53:26.851990+0000", "features": {"flow_count": 95, "inbound_count": 52, "outbound_count": 43, "avg_in_bytes": 922.8, "avg_out_bytes": 1387.7, "duration": 7.994}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 77, "inbound_count": 34, "outbound_count": 43, "avg_in_bytes": 856.5, "avg_out_bytes": 1392.9, "duration": 8.139}
+{"timestamp": "2026-10-06T12:53:34.851990+0000", "features": {"flow_count": 77, "inbound_count": 34, "outbound_count": 43, "avg_in_bytes": 856.5, "avg_out_bytes": 1392.9, "duration": 8.139}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 78, "inbound_count": 38, "outbound_count": 40, "avg_in_bytes": 812.6, "avg_out_bytes": 1505.8, "duration": 7.907}
+{"timestamp": "2026-10-06T12:53:42.851990+0000", "features": {"flow_count": 78, "inbound_count": 38, "outbound_count": 40, "avg_in_bytes": 812.6, "avg_out_bytes": 1505.8, "duration": 7.907}, "predictions": {"RF": "Benign", "CNN": "DDoS", "LSTM": "Benign"}}
+{"flow_count": 107, "inbound_count": 47, "outbound_count": 60, "avg_in_bytes": 813.5, "avg_out_bytes": 1533.6, "duration": 7.907}
+{"timestamp": "2026-10-06T12:53:50.851990+0000", "features": {"flow_count": 107, "inbound_count": 47, "outbound_count": 60, "avg_in_bytes": 813.5, "avg_out_bytes": 1533.6, "duration": 7.907}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 72, "inbound_count": 33, "outbound_count": 39, "avg_in_bytes": 953.2, "avg_out_bytes": 1423.1, "duration": 7.94}
+{"timestamp": "2026-10-06T12:53:58.851990+0000", "features": {"flow_count": 72, "inbound_count": 33, "outbound_count": 39, "avg_in_bytes": 953.2, "avg_out_bytes": 1423.1, "duration": 7.94}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 118, "inbound_count": 55, "outbound_count": 63, "avg_in_bytes": 843.6, "avg_out_bytes": 1392.2, "duration": 8.031}
+{"timestamp": "2026-10-06T12:54:06.851990+0000", "features": {"flow_count": 118, "inbound_count": 55, "outbound_count": 63, "avg_in_bytes": 843.6, "avg_out_bytes": 1392.2, "duration": 8.031}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 48, "inbound_count": 28, "outbound_count": 20, "avg_in_bytes": 808.1, "avg_out_bytes": 1419.1, "duration": 8.194}
+{"timestamp": "2026-10-06T12:54:14.851990+0000", "features": {"flow_count": 48, "inbound_count": 28, "outbound_count": 20, "avg_in_bytes": 808.1, "avg_out_bytes": 1419.1, "duration": 8.194}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 62, "inbound_count": 28, "outbound_count": 34, "avg_in_bytes": 981.2, "avg_out_bytes": 1599.0, "duration": 8.119}
+{"timestamp": "2026-10-06T12:54:22.851990+0000", "features": {"flow_count": 62, "inbound_count": 28, "outbound_count": 34, "avg_in_bytes": 981.2, "avg_out_bytes": 1599.0, "duration": 8.119}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 52, "inbound_count": 29, "outbound_count": 23, "avg_in_bytes": 909.9, "avg_out_bytes": 1545.5, "duration": 7.93}
+{"timestamp": "2026-10-06T12:54:30.851990+0000", "features": {"flow_count": 52, "inbound_count": 29, "outbound_count": 23, "avg_in_bytes": 909.9, "avg_out_bytes": 1545.5, "duration": 7.93}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 119, "inbound_count": 50, "outbound_count": 69, "avg_in_bytes": 912.9, "avg_out_bytes": 1498.8, "duration": 7.901}
+{"timestamp": "2026-10-06T12:54:38.851990+0000", "features": {"flow_count": 119, "inbound_count": 50, "outbound_count": 69, "avg_in_bytes": 912.9, "avg_out_bytes": 1498.8, "duration": 7.901}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 102, "inbound_count": 56, "outbound_count": 46, "avg_in_bytes": 882.6, "avg_out_bytes": 1445.7, "duration": 8.123}
+{"timestamp": "2026-10-06T12:54:46.851990+0000", "features": {"flow_count": 102, "inbound_count": 56, "outbound_count": 46, "avg_in_bytes": 882.6, "avg_out_bytes": 1445.7, "duration": 8.123}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 61, "inbound_count": 28, "outbound_count": 33, "avg_in_bytes": 864.3, "avg_out_bytes": 1537.8, "duration": 7.805}
+{"timestamp": "2026-10-06T12:54:54.851990+0000", "features": {"flow_count": 61, "inbound_count": 28, "outbound_count": 33, "avg_in_bytes": 864.3, "avg_out_bytes": 1537.8, "duration": 7.805}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 85, "inbound_count": 35, "outbound_count": 50, "avg_in_bytes": 947.9, "avg_out_bytes": 1472.3, "duration": 7.832}
+{"timestamp": "2026-10-06T12:55:02.851990+0000", "features": {"flow_count": 85, "inbound_count": 35, "outbound_count": 50, "avg_in_bytes": 947.9, "avg_out_bytes": 1472.3, "duration": 7.832}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "DDoS"}}
+{"flow_count": 74, "inbound_count": 33, "outbound_count": 41, "avg_in_bytes": 933.5, "avg_out_bytes": 1582.9, "duration": 7.805}
+{"timestamp": "2026-10-06T12:55:10.851990+0000", "features": {"flow_count": 74, "inbound_count": 33, "outbound_count": 41, "avg_in_bytes": 933.5, "avg_out_bytes": 1582.9, "duration": 7.805}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 62, "inbound_count": 37, "outbound_count": 25, "avg_in_bytes": 937.8, "avg_out_bytes": 1391.5, "duration": 7.934}
+{"timestamp": "2026-10-06T12:55:18.851990+0000", "features": {"flow_count": 62, "inbound_count": 37, "outbound_count": 25, "avg_in_bytes": 937.8, "avg_out_bytes": 1391.5, "duration": 7.934}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "PortScan"}}
+{"flow_count": 48, "inbound_count": 23, "outbound_count": 25, "avg_in_bytes": 910.7, "avg_out_bytes": 1314.0, "duration": 8.156}
+{"timestamp": "2026-10-06T12:55:26.851990+0000", "features": {"flow_count": 48, "inbound_count": 23, "outbound_count": 25, "avg_in_bytes": 910.7, "avg_out_bytes": 1314.0, "duration": 8.156}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 110, "inbound_count": 61, "outbound_count": 49, "avg_in_bytes": 907.2, "avg_out_bytes": 1573.4, "duration": 8.063}
+{"timestamp": "2026-10-06T12:55:34.851990+0000", "features": {"flow_count": 110, "inbound_count": 61, "outbound_count": 49, "avg_in_bytes": 907.2, "avg_out_bytes": 1573.4, "duration": 8.063}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 72, "inbound_count": 32, "outbound_count": 40, "avg_in_bytes": 995.8, "avg_out_bytes": 1458.9, "duration": 8.0}
+{"timestamp": "2026-10-06T12:55:42.851990+0000", "features": {"flow_count": 72, "inbound_count": 32, "outbound_count": 40, "avg_in_bytes": 995.8, "avg_out_bytes": 1458.9, "duration": 8.0}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 94, "inbound_count": 54, "outbound_count": 40, "avg_in_bytes": 912.8, "avg_out_bytes": 1526.5, "duration": 8.116}
+{"timestamp": "2026-10-06T12:55:50.851990+0000", "features": {"flow_count": 94, "inbound_count": 54, "outbound_count": 40, "avg_in_bytes": 912.8, "avg_out_bytes": 1526.5, "duration": 8.116}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 66, "inbound_count": 36, "outbound_count": 30, "avg_in_bytes": 963.2, "avg_out_bytes": 1432.3, "duration": 8.081}
+{"timestamp": "2026-10-06T12:55:58.851990+0000", "features": {"flow_count": 66, "inbound_count": 36, "outbound_count": 30, "avg_in_bytes": 963.2, "avg_out_bytes": 1432.3, "duration": 8.081}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 62, "inbound_count": 29, "outbound_count": 33, "avg_in_bytes": 981.4, "avg_out_bytes": 1565.6, "duration": 7.847}
+{"timestamp": "2026-10-06T12:56:06.851990+0000", "features": {"flow_count": 62, "inbound_count": 29, "outbound_count": 33, "avg_in_bytes": 981.4, "avg_out_bytes": 1565.6, "duration": 7.847}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 112, "inbound_count": 67, "outbound_count": 45, "avg_in_bytes": 964.4, "avg_out_bytes": 1486.6, "duration": 7.955}
+{"timestamp": "2026-10-06T12:56:14.851990+0000", "features": {"flow_count": 112, "inbound_count": 67, "outbound_count": 45, "avg_in_bytes": 964.4, "avg_out_bytes": 1486.6, "duration": 7.955}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 92, "inbound_count": 51, "outbound_count": 41, "avg_in_bytes": 886.1, "avg_out_bytes": 1503.5, "duration": 7.894}
+{"timestamp": "2026-10-06T12:56:22.851990+0000", "features": {"flow_count": 92, "inbound_count": 51, "outbound_count": 41, "avg_in_bytes": 886.1, "avg_out_bytes": 1503.5, "duration": 7.894}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 108, "inbound_count": 61, "outbound_count": 47, "avg_in_bytes": 928.5, "avg_out_bytes": 1428.2, "duration": 8.03}
+{"timestamp": "2026-10-06T12:56:30.851990+0000", "features": {"flow_count": 108, "inbound_count": 61, "outbound_count": 47, "avg_in_bytes": 928.5, "avg_out_bytes": 1428.2, "duration": 8.03}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 67, "inbound_count": 26, "outbound_count": 41, "avg_in_bytes": 948.0, "avg_out_bytes": 1459.3, "duration": 7.808}
+{"timestamp": "2026-10-06T12:56:38.851990+0000", "features": {"flow_count": 67, "inbound_count": 26, "outbound_count": 41, "avg_in_bytes": 948.0, "avg_out_bytes": 1459.3, "duration": 7.808}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 104, "inbound_count": 62, "outbound_count": 42, "avg_in_bytes": 849.6, "avg_out_bytes": 1361.0, "duration": 7.898}
+{"timestamp": "2026-10-06T12:56:46.851990+0000", "features": {"flow_count": 104, "inbound_count": 62, "outbound_count": 42, "avg_in_bytes": 849.6, "avg_out_bytes": 1361.0, "duration": 7.898}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 117, "inbound_count": 55, "outbound_count": 62, "avg_in_bytes": 916.1, "avg_out_bytes": 1525.0, "duration": 8.061}
+{"timestamp": "2026-10-06T12:56:54.851990+0000", "features": {"flow_count": 117, "inbound_count": 55, "outbound_count": 62, "avg_in_bytes": 916.1, "avg_out_bytes": 1525.0, "duration": 8.061}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 94, "inbound_count": 47, "outbound_count": 47, "avg_in_bytes": 891.2, "avg_out_bytes": 1640.5, "duration": 8.165}
+{"timestamp": "2026-10-06T12:57:02.851990+0000", "features": {"flow_count": 94, "inbound_count": 47, "outbound_count": 47, "avg_in_bytes": 891.2, "avg_out_bytes": 1640.5, "duration": 8.165}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 79, "inbound_count": 45, "outbound_count": 34, "avg_in_bytes": 836.5, "avg_out_bytes": 1471.2, "duration": 8.174}
+{"timestamp": "2026-10-06T12:57:10.851990+0000", "features": {"flow_count": 79, "inbound_count": 45, "outbound_count": 34, "avg_in_bytes": 836.5, "avg_out_bytes": 1471.2, "duration": 8.174}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 52, "inbound_count": 28, "outbound_count": 24, "avg_in_bytes": 796.2, "avg_out_bytes": 1458.4, "duration": 8.103}
+{"timestamp": "2026-10-06T12:57:18.851990+0000", "features": {"flow_count": 52, "inbound_count": 28, "outbound_count": 24, "avg_in_bytes": 796.2, "avg_out_bytes": 1458.4, "duration": 8.103}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 86, "inbound_count": 44, "outbound_count": 42, "avg_in_bytes": 900.4, "avg_out_bytes": 1391.3, "duration": 8.08}
+{"timestamp": "2026-10-06T12:57:26.851990+0000", "features": {"flow_count": 86, "inbound_count": 44, "outbound_count": 42, "avg_in_bytes": 900.4, "avg_out_bytes": 1391.3, "duration": 8.08}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 46, "inbound_count": 26, "outbound_count": 20, "avg_in_bytes": 855.0, "avg_out_bytes": 1643.5, "duration": 8.088}
+{"timestamp": "2026-10-06T12:57:34.851990+0000", "features": {"flow_count": 46, "inbound_count": 26, "outbound_count": 20, "avg_in_bytes": 855.0, "avg_out_bytes": 1643.5, "duration": 8.088}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 50, "inbound_count": 21, "outbound_count": 29, "avg_in_bytes": 917.4, "avg_out_bytes": 1519.5, "duration": 8.027}
+{"timestamp": "2026-10-06T12:57:42.851990+0000", "features": {"flow_count": 50, "inbound_count": 21, "outbound_count": 29, "avg_in_bytes": 917.4, "avg_out_bytes": 1519.5, "duration": 8.027}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 41, "inbound_count": 18, "outbound_count": 23, "avg_in_bytes": 987.6, "avg_out_bytes": 1463.8, "duration": 8.198}
+{"timestamp": "2026-10-06T12:57:50.851990+0000", "features": {"flow_count": 41, "inbound_count": 18, "outbound_count": 23, "avg_in_bytes": 987.6, "avg_out_bytes": 1463.8, "duration": 8.198}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 93, "inbound_count": 40, "outbound_count": 53, "avg_in_bytes": 841.2, "avg_out_bytes": 1410.2, "duration": 7.955}
+{"timestamp": "2026-10-06T12:57:58.851990+0000", "features": {"flow_count": 93, "inbound_count": 40, "outbound_count": 53, "avg_in_bytes": 841.2, "avg_out_bytes": 1410.2, "duration": 7.955}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 83, "inbound_count": 44, "outbound_count": 39, "avg_in_bytes": 834.5, "avg_out_bytes": 1527.5, "duration": 8.119}
+{"timestamp": "2026-10-06T12:58:06.851990+0000", "features": {"flow_count": 83, "inbound_count": 44, "outbound_count": 39, "avg_in_bytes": 834.5, "avg_out_bytes": 1527.5, "duration": 8.119}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 115, "inbound_count": 59, "outbound_count": 56, "avg_in_bytes": 925.5, "avg_out_bytes": 1351.1, "duration": 8.057}
+{"timestamp": "2026-10-06T12:58:14.851990+0000", "features": {"flow_count": 115, "inbound_count": 59, "outbound_count": 56, "avg_in_bytes": 925.5, "avg_out_bytes": 1351.1, "duration": 8.057}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 116, "inbound_count": 67, "outbound_count": 49, "avg_in_bytes": 856.5, "avg_out_bytes": 1455.5, "duration": 7.909}
+{"timestamp": "2026-10-06T12:58:22.851990+0000", "features": {"flow_count": 116, "inbound_count": 67, "outbound_count": 49, "avg_in_bytes": 856.5, "avg_out_bytes": 1455.5, "duration": 7.909}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 116, "inbound_count": 65, "outbound_count": 51, "avg_in_bytes": 867.6, "avg_out_bytes": 1555.2, "duration": 8.0}
+{"timestamp": "2026-10-06T12:58:30.851990+0000", "features": {"flow_count": 116, "inbound_count": 65, "outbound_count": 51, "avg_in_bytes": 867.6, "avg_out_bytes": 1555.2, "duration": 8.0}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 70, "inbound_count": 34, "outbound_count": 36, "avg_in_bytes": 841.5, "avg_out_bytes": 1563.1, "duration": 8.186}
+{"timestamp": "2026-10-06T12:58:38.851990+0000", "features": {"flow_count": 70, "inbound_count": 34, "outbound_count": 36, "avg_in_bytes": 841.5, "avg_out_bytes": 1563.1, "duration": 8.186}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 85, "inbound_count": 39, "outbound_count": 46, "avg_in_bytes": 1017.8, "avg_out_bytes": 1453.0, "duration": 8.064}
+{"timestamp": "2026-10-06T12:58:46.851990+0000", "features": {"flow_count": 85, "inbound_count": 39, "outbound_count": 46, "avg_in_bytes": 1017.8, "avg_out_bytes": 1453.0, "duration": 8.064}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 106, "inbound_count": 51, "outbound_count": 55, "avg_in_bytes": 1021.0, "avg_out_bytes": 1672.5, "duration": 7.811}
+{"timestamp": "2026-10-06T12:58:54.851990+0000", "features": {"flow_count": 106, "inbound_count": 51, "outbound_count": 55, "avg_in_bytes": 1021.0, "avg_out_bytes": 1672.5, "duration": 7.811}, "predictions": {"RF": "PortScan", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 101, "inbound_count": 59, "outbound_count": 42, "avg_in_bytes": 843.0, "avg_out_bytes": 1521.8, "duration": 8.159}
+{"timestamp": "2026-10-06T12:59:02.851990+0000", "features": {"flow_count": 101, "inbound_count": 59, "outbound_count": 42, "avg_in_bytes": 843.0, "avg_out_bytes": 1521.8, "duration": 8.159}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 114, "inbound_count": 57, "outbound_count": 57, "avg_in_bytes": 884.8, "avg_out_bytes": 1532.1, "duration": 8.126}
+{"timestamp": "2026-10-06T12:59:10.851990+0000", "features": {"flow_count": 114, "inbound_count": 57, "outbound_count": 57, "avg_in_bytes": 884.8, "avg_out_bytes": 1532.1, "duration": 8.126}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 101, "inbound_count": 54, "outbound_count": 47, "avg_in_bytes": 859.8, "avg_out_bytes": 1603.8, "duration": 7.972}
+{"timestamp": "2026-10-06T12:59:18.851990+0000", "features": {"flow_count": 101, "inbound_count": 54, "outbound_count": 47, "avg_in_bytes": 859.8, "avg_out_bytes": 1603.8, "duration": 7.972}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 41, "inbound_count": 20, "outbound_count": 21, "avg_in_bytes": 861.4, "avg_out_bytes": 1529.8, "duration": 7.981}
+{"timestamp": "2026-10-06T12:59:26.851990+0000", "features": {"flow_count": 41, "inbound_count": 20, "outbound_count": 21, "avg_in_bytes": 861.4, "avg_out_bytes": 1529.8, "duration": 7.981}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 103, "inbound_count": 57, "outbound_count": 46, "avg_in_bytes": 835.9, "avg_out_bytes": 1555.5, "duration": 7.827}
+{"timestamp": "2026-10-06T12:59:34.851990+0000", "features": {"flow_count": 103, "inbound_count": 57, "outbound_count": 46, "avg_in_bytes": 835.9, "avg_out_bytes": 1555.5, "duration": 7.827}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 90, "inbound_count": 52, "outbound_count": 38, "avg_in_bytes": 956.6, "avg_out_bytes": 1290.8, "duration": 7.985}
+{"timestamp": "2026-10-06T12:59:42.851990+0000", "features": {"flow_count": 90, "inbound_count": 52, "outbound_count": 38, "avg_in_bytes": 956.6, "avg_out_bytes": 1290.8, "duration": 7.985}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 61, "inbound_count": 31, "outbound_count": 30, "avg_in_bytes": 918.9, "avg_out_bytes": 1512.7, "duration": 7.943}
+{"timestamp": "2026-10-06T12:59:50.851990+0000", "features": {"flow_count": 61, "inbound_count": 31, "outbound_count": 30, "avg_in_bytes": 918.9, "avg_out_bytes": 1512.7, "duration": 7.943}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 81, "inbound_count": 40, "outbound_count": 41, "avg_in_bytes": 1006.6, "avg_out_bytes": 1423.3, "duration": 7.905}
+{"timestamp": "2026-10-06T12:59:58.851990+0000", "features": {"flow_count": 81, "inbound_count": 40, "outbound_count": 41, "avg_in_bytes": 1006.6, "avg_out_bytes": 1423.3, "duration": 7.905}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 46, "inbound_count": 22, "outbound_count": 24, "avg_in_bytes": 828.0, "avg_out_bytes": 1437.2, "duration": 8.19}
+{"timestamp": "2026-10-06T13:00:06.851990+0000", "features": {"flow_count": 46, "inbound_count": 22, "outbound_count": 24, "avg_in_bytes": 828.0, "avg_out_bytes": 1437.2, "duration": 8.19}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 78, "inbound_count": 40, "outbound_count": 38, "avg_in_bytes": 887.8, "avg_out_bytes": 1429.9, "duration": 7.898}
+{"timestamp": "2026-10-06T13:00:14.851990+0000", "features": {"flow_count": 78, "inbound_count": 40, "outbound_count": 38, "avg_in_bytes": 887.8, "avg_out_bytes": 1429.9, "duration": 7.898}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 79, "inbound_count": 44, "outbound_count": 35, "avg_in_bytes": 872.4, "avg_out_bytes": 1358.6, "duration": 8.044}
+{"timestamp": "2026-10-06T13:00:22.851990+0000", "features": {"flow_count": 79, "inbound_count": 44, "outbound_count": 35, "avg_in_bytes": 872.4, "avg_out_bytes": 1358.6, "duration": 8.044}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 104, "inbound_count": 47, "outbound_count": 57, "avg_in_bytes": 906.5, "avg_out_bytes": 1607.1, "duration": 8.167}
+{"timestamp": "2026-10-06T13:00:30.851990+0000", "features": {"flow_count": 104, "inbound_count": 47, "outbound_count": 57, "avg_in_bytes": 906.5, "avg_out_bytes": 1607.1, "duration": 8.167}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 120, "inbound_count": 55, "outbound_count": 65, "avg_in_bytes": 834.0, "avg_out_bytes": 1471.0, "duration": 7.982}
+{"timestamp": "2026-10-06T13:00:38.851990+0000", "features": {"flow_count": 120, "inbound_count": 55, "outbound_count": 65, "avg_in_bytes": 834.0, "avg_out_bytes": 1471.0, "duration": 7.982}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 57, "inbound_count": 28, "outbound_count": 29, "avg_in_bytes": 788.3, "avg_out_bytes": 1443.7, "duration": 7.982}
+{"timestamp": "2026-10-06T13:00:46.851990+0000", "features": {"flow_count": 57, "inbound_count": 28, "outbound_count": 29, "avg_in_bytes": 788.3, "avg_out_bytes": 1443.7, "duration": 7.982}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 64, "inbound_count": 33, "outbound_count": 31, "avg_in_bytes": 910.4, "avg_out_bytes": 1538.3, "duration": 7.864}
+{"timestamp": "2026-10-06T13:00:54.851990+0000", "features": {"flow_count": 64, "inbound_count": 33, "outbound_count": 31, "avg_in_bytes": 910.4, "avg_out_bytes": 1538.3, "duration": 7.864}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 63, "inbound_count": 28, "outbound_count": 35, "avg_in_bytes": 847.7, "avg_out_bytes": 1544.5, "duration": 7.885}
+{"timestamp": "2026-10-06T13:01:02.851990+0000", "features": {"flow_count": 63, "inbound_count": 28, "outbound_count": 35, "avg_in_bytes": 847.7, "avg_out_bytes": 1544.5, "duration": 7.885}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 94, "inbound_count": 47, "outbound_count": 47, "avg_in_bytes": 894.1, "avg_out_bytes": 1376.3, "duration": 8.123}
+{"timestamp": "2026-10-06T13:01:10.851990+0000", "features": {"flow_count": 94, "inbound_count": 47, "outbound_count": 47, "avg_in_bytes": 894.1, "avg_out_bytes": 1376.3, "duration": 8.123}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 49, "inbound_count": 20, "outbound_count": 29, "avg_in_bytes": 914.3, "avg_out_bytes": 1469.2, "duration": 7.987}
+{"timestamp": "2026-10-06T13:01:18.851990+0000", "features": {"flow_count": 49, "inbound_count": 20, "outbound_count": 29, "avg_in_bytes": 914.3, "avg_out_bytes": 1469.2, "duration": 7.987}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 56, "inbound_count": 25, "outbound_count": 31, "avg_in_bytes": 896.1, "avg_out_bytes": 1527.6, "duration": 8.148}
+{"timestamp": "2026-10-06T13:01:26.851990+0000", "features": {"flow_count": 56, "inbound_count": 25, "outbound_count": 31, "avg_in_bytes": 896.1, "avg_out_bytes": 1527.6, "duration": 8.148}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 110, "inbound_count": 56, "outbound_count": 54, "avg_in_bytes": 850.1, "avg_out_bytes": 1519.1, "duration": 8.146}
+{"timestamp": "2026-10-06T13:01:34.851990+0000", "features": {"flow_count": 110, "inbound_count": 56, "outbound_count": 54, "avg_in_bytes": 850.1, "avg_out_bytes": 1519.1, "duration": 8.146}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 95, "inbound_count": 48, "outbound_count": 47, "avg_in_bytes": 915.8, "avg_out_bytes": 1464.7, "duration": 8.166}
+{"timestamp": "2026-10-06T13:01:42.851990+0000", "features": {"flow_count": 95, "inbound_count": 48, "outbound_count": 47, "avg_in_bytes": 915.8, "avg_out_bytes": 1464.7, "duration": 8.166}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 59, "inbound_count": 35, "outbound_count": 24, "avg_in_bytes": 903.8, "avg_out_bytes": 1616.9, "duration": 8.005}
+{"timestamp": "2026-10-06T13:01:50.851990+0000", "features": {"flow_count": 59, "inbound_count": 35, "outbound_count": 24, "avg_in_bytes": 903.8, "avg_out_bytes": 1616.9, "duration": 8.005}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 81, "inbound_count": 44, "outbound_count": 37, "avg_in_bytes": 779.6, "avg_out_bytes": 1414.9, "duration": 7.899}
+{"timestamp": "2026-10-06T13:01:58.851990+0000", "features": {"flow_count": 81, "inbound_count": 44, "outbound_count": 37, "avg_in_bytes": 779.6, "avg_out_bytes": 1414.9, "duration": 7.899}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 75, "inbound_count": 44, "outbound_count": 31, "avg_in_bytes": 864.4, "avg_out_bytes": 1606.6, "duration": 8.061}
+{"timestamp": "2026-10-06T13:02:06.851990+0000", "features": {"flow_count": 75, "inbound_count": 44, "outbound_count": 31, "avg_in_bytes": 864.4, "avg_out_bytes": 1606.6, "duration": 8.061}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 94, "inbound_count": 54, "outbound_count": 40, "avg_in_bytes": 857.3, "avg_out_bytes": 1695.7, "duration": 7.949}
+{"timestamp": "2026-10-06T13:02:14.851990+0000", "features": {"flow_count": 94, "inbound_count": 54, "outbound_count": 40, "avg_in_bytes": 857.3, "avg_out_bytes": 1695.7, "duration": 7.949}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}
+{"flow_count": 69, "inbound_count": 38, "outbound_count": 31, "avg_in_bytes": 955.9, "avg_out_bytes": 1282.5, "duration": 7.892}
+{"timestamp": "2026-10-06T13:02:22.851990+0000", "features": {"flow_count": 69, "inbound_count": 38, "outbound_count": 31, "avg_in_bytes": 955.9, "avg_out_bytes": 1282.5, "duration": 7.892}, "predictions": {"RF": "Benign", "CNN": "Benign", "LSTM": "Benign"}}

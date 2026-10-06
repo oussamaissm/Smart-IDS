@@ -1,0 +1,14 @@
+{"timestamp": "2026-10-06T12:36:30.851990+0000", "detections": {"LSTM": "DDoS"}}
+{"timestamp": "2026-10-06T12:37:02.851990+0000", "detections": {"CNN": "DDoS"}}
+{"timestamp": "2026-10-06T12:40:06.851990+0000", "detections": {"LSTM": "PortScan"}}
+{"timestamp": "2026-10-06T12:40:14.851990+0000", "detections": {"RF": "DDoS"}}
+{"timestamp": "2026-10-06T12:43:58.851990+0000", "detections": {"CNN": "DDoS"}}
+{"timestamp": "2026-10-06T12:45:10.851990+0000", "detections": {"CNN": "PortScan"}}
+{"timestamp": "2026-10-06T12:46:38.851990+0000", "detections": {"RF": "DDoS"}}
+{"timestamp": "2026-10-06T12:47:02.851990+0000", "detections": {"CNN": "PortScan", "LSTM": "PortScan"}}
+{"timestamp": "2026-10-06T12:50:14.851990+0000", "detections": {"CNN": "PortScan"}}
+{"timestamp": "2026-10-06T12:51:50.851990+0000", "detections": {"LSTM": "DDoS"}}
+{"timestamp": "2026-10-06T12:53:42.851990+0000", "detections": {"CNN": "DDoS"}}
+{"timestamp": "2026-10-06T12:55:02.851990+0000", "detections": {"LSTM": "DDoS"}}
+{"timestamp": "2026-10-06T12:55:18.851990+0000", "detections": {"LSTM": "PortScan"}}
+{"timestamp": "2026-10-06T12:58:54.851990+0000", "detections": {"RF": "PortScan"}}

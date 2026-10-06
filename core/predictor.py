@@ -93,8 +93,24 @@ class Predictor:
 
     @staticmethod
     def _predict_one(bundle: _Bundle, df: pd.DataFrame) -> str:
+    # Ensure features have exactly the same names and order
+        # used when the scaler was fitted.
+        if hasattr(bundle.scaler, "feature_names_in_"):
+            expected_features = list(bundle.scaler.feature_names_in_)
+
+            missing = [f for f in expected_features if f not in df.columns]
+            extra = [f for f in df.columns if f not in expected_features]
+
+            if missing:
+                raise ValueError(f"Missing features: {missing}")
+
+            if extra:
+                log.warning("Ignoring extra features: %s", extra)
+
+            df = df[expected_features]
+
         scaled = bundle.scaler.transform(df)
-        raw    = bundle.model.predict(scaled)
+        raw = bundle.model.predict(scaled)
 
         # CNN may return softmax probabilities (2-D array)
         if isinstance(raw, np.ndarray) and raw.ndim == 2 and raw.shape[1] > 1:
