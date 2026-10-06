@@ -6,8 +6,7 @@ import os
 
 # ── Stats window ─────────────────────────────────────────────────────────────
 # Suricata emits a 'stats' event on this interval (seconds).
-# Used only for documentation / future rate-limit logic.
-STATS_INTERVAL_SECONDS: int = int(os.getenv("STATS_INTERVAL", "10"))
+STATS_INTERVAL_SECONDS: int = int(os.getenv("STATS_INTERVAL", "8"))
 
 # ── Logging ──────────────────────────────────────────────────────────────────
 LOG_LEVEL: str = os.getenv("IDS_LOG_LEVEL", "INFO").upper()
