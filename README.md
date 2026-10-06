@@ -54,8 +54,6 @@ The project currently uses:
 | Decision Tree | DT |
 | Naive Bayes | NB |
 
-Using several models makes it possible to compare their predictions on the same traffic windows.
-
 ## Detected Classes
 
 Depending on the dataset and trained models, the system can detect classes such as:
@@ -150,8 +148,6 @@ The processing pipeline is:
 - Scikit-learn
 - Streamlit
 
-Additional dependencies may be required depending on the scripts and model implementations.
-
 ## Installation
 
 Clone the repository:
@@ -196,12 +192,6 @@ The main configuration file is usually:
 
 The network capture interface and output configuration must be adapted to the environment.
 
-For example:
-
-```bash
-sudo grep -n -A10 -B5 "af-packet:" /etc/suricata/suricata.yaml
-```
-
 Before running an experiment, verify that Suricata is receiving traffic and generating events correctly.
 
 ## Running the IDS
@@ -211,8 +201,6 @@ Start the project's detection pipeline using its main script:
 ```bash
 python3 <main_script>.py
 ```
-
-The exact entry point depends on the repository version.
 
 The pipeline generates result and alert files consumed by the Streamlit application.
 
@@ -279,5 +267,3 @@ Attack Detection
        v
 Real-Time Monitoring
 ```
-
-The system can serve as an experimental platform for comparing different machine-learning approaches to network intrusion detection.
