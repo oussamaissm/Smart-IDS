@@ -6,7 +6,7 @@ Smart IDS is an AI-based Intrusion Detection System (IDS) combining **Suricata**
 
 The system processes network traffic in time-based windows, extracts relevant features, and classifies each window using multiple machine-learning models.
 
-![Network Traffic Analysis Workflow](docs/network_traffic_analysis_workflow.png)
+![Network Traffic Analysis Workflow](docs/network_traffic_analysis_workflow.jpeg)
 
 
 ## Main Features
