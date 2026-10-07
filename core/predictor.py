@@ -26,15 +26,7 @@ class Predictor:
         self._bundles: list[_Bundle] = []
         self._load_all()
 
-    # ── Loading ──────────────────────────────────────────────────────────────
-
     def _load_all(self) -> None:
-        """
-        Load all models defined in MODEL_PATHS.
-
-        A model that fails to load is skipped so that one broken model
-        does not prevent the other models from being used.
-        """
         for name, paths in MODEL_PATHS.items():
             try:
                 bundle = self._load_bundle(name, paths)
@@ -59,10 +51,6 @@ class Predictor:
         name: str,
         paths: dict[str, Path],
     ) -> _Bundle:
-        """
-        Load model, scaler and label encoder from disk.
-        """
-
         return _Bundle(
             name=name,
             model=joblib.load(paths["model"]),
@@ -73,18 +61,6 @@ class Predictor:
     # ── Inference ────────────────────────────────────────────────────────────
 
     def predict(self, df: pd.DataFrame) -> dict[str, str]:
-        """
-        Run inference using all loaded models.
-
-        Returns:
-            {
-                "RF": "Benign",
-                "CNN": "DDoS",
-                "DT": "Benign",
-                ...
-            }
-        """
-
         results: dict[str, str] = {}
 
         for bundle in self._bundles:
@@ -111,17 +87,6 @@ class Predictor:
         bundle: _Bundle,
         df: pd.DataFrame,
     ) -> str:
-        """
-        Preprocess the input and perform prediction for one model.
-
-        This supports:
-        - Random Forest
-        - Decision Tree
-        - Logistic Regression
-        - Naive Bayes
-        - CNN implemented with a scikit-learn-compatible .predict()
-          interface and saved using joblib.
-        """
 
         # ---------------------------------------------------------------------
         # 1. Check feature names
@@ -158,7 +123,6 @@ class Predictor:
                     extra,
                 )
 
-            # Keep exactly the same feature order used during training.
             df = df[expected_features]
 
         # ---------------------------------------------------------------------
@@ -176,25 +140,7 @@ class Predictor:
         # ---------------------------------------------------------------------
         # 4. Handle CNN / probability-style output
         # ---------------------------------------------------------------------
-        #
-        # Your original CNN code does:
-        #
-        # prediction_cnn = model_cnn.predict(df_scaled_cnn)
-        #
-        # if prediction_cnn.shape[1] != 1:
-        #     prediction_cnn = prediction_cnn.argmax(axis=-1)
-        #
-        # Therefore, if CNN returns something like:
-        #
-        # [[0.01, 0.92, 0.07]]
-        #
-        # we convert it to:
-        #
-        # [1]
-        #
-        # which can then be passed to LabelEncoder.
-        # ---------------------------------------------------------------------
-
+        
         raw = np.asarray(raw)
 
         if raw.ndim == 2:

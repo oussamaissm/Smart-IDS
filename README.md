@@ -30,6 +30,8 @@ The project currently uses:
 | Random Forest | RF |
 | Decision Tree | DT |
 | Naive Bayes | NB |
+| Logistic regression | LR |
+| Convolutional Neural Network | CNN |
 
 ## Detected Classes
 
@@ -157,20 +159,6 @@ Then open the local Streamlit address shown in the terminal, normally:
 ```text
 http://localhost:8501
 ```
-
-## Detection Windows
-
-Traffic is processed in windows. For every window, each model can produce a prediction:
-
-```text
-Timestamp
-   |
-   +-- Random Forest
-   +-- Decision Tree
-   +-- Naive Bayes
-```
-
-This allows model predictions to be compared over the same period.
 
 ## Alerts
 
