@@ -6,31 +6,8 @@ Smart IDS is an AI-based Intrusion Detection System (IDS) combining **Suricata**
 
 The system processes network traffic in time-based windows, extracts relevant features, and classifies each window using multiple machine-learning models.
 
-```text
-Network Traffic
-      |
-      v
-   Suricata
-      |
-      v
-Feature Extraction
-      |
-      +-----------------------------+
-      |                             |
-      v                             v
-Machine Learning                Alert Pipeline
-      |
- +----+----+----+----+
- |    |    |    |
- RF   DT   LR   NB
- +----+----+----+----+
-      |
-      v
-Classification Results
-      |
-      v
-Streamlit Dashboard
-```
+![Network Traffic Analysis Workflow](docs/network_traffic_analysis_workflow.png)
+
 
 ## Main Features
 
@@ -100,43 +77,6 @@ The timeline allows predictions from DT, LR, NB, and RF to be compared over time
 
 The detected-classes chart summarizes the number of windows assigned to each traffic class, making it easier to identify dominant attack types.
 
-## Architecture
-
-The processing pipeline is:
-
-```text
-             Network Traffic
-                    |
-                    v
-                Suricata
-                    |
-                    v
-              Network Events
-                    |
-                    v
-            Feature Extraction
-                    |
-                    v
-          +---------+---------+
-          |         |         |
-          v         v         v
-         RF        DT        LR        NB
-          |         |         |         |
-          +---------+---------+---------+
-                    |
-                    v
-             Classification
-                    |
-          +---------+---------+
-          |                   |
-          v                   v
-       Results              Alerts
-          |                   |
-          +---------+---------+
-                    |
-                    v
-            Streamlit Dashboard
-```
 
 ## Requirements
 
@@ -246,24 +186,4 @@ Malicious detections can be written to an alerts file. The dashboard uses these 
 
 The project explores the combination of traditional network monitoring and machine learning for automated intrusion detection.
 
-```text
-Network Security
-       |
-       v
-   Suricata
-       |
-       v
- Network Data
-       |
-       v
-Feature Engineering
-       |
-       v
-Machine Learning
-       |
-       v
-Attack Detection
-       |
-       v
-Real-Time Monitoring
-```
+![Network Security Detection Pipeline](docs/network_security_detection_pipeline.png)
