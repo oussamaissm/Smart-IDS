@@ -186,4 +186,4 @@ Malicious detections can be written to an alerts file. The dashboard uses these 
 
 The project explores the combination of traditional network monitoring and machine learning for automated intrusion detection.
 
-![Network Security Detection Pipeline](docs/network_security_detection_pipeline.png)
+![Network Security Detection Pipeline](docs/network_security_detection_pipeline.jpeg)
